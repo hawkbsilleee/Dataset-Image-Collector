@@ -1,0 +1,2478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="76b037ce-a73f-4bff-856d-ad605f9539e1"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/sma9a5</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-CC008</alternateIdentifier>
+        <alternateIdentifier>http://www.snib.mx/iptconabio/resource?r=SNIB-CC008-CC0081103F_corregida-ND</alternateIdentifier>
+        <alternateIdentifier>76b037ce-a73f-4bff-856d-ad605f9539e1</alternateIdentifier>
+    <title>Computarización de la Colección de insectos y ácaros de importancia médica de la Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León</title>
+    <creator>
+    <individualName>
+<givenName>Gustavo</givenName>          <surName>Ponce García</surName>
+    </individualName>
+<organizationName>Universidad Autónoma de Nuevo LeónFacultad de Ciencias Biológicas</organizationName><positionName>Responsable</positionName>    <address>
+<city>San Nicólas de los Garza</city><administrativeArea>Nuevo León</administrativeArea><postalCode>66450</postalCode><country>MEXICO</country>    </address>
+<phone>(81)83 324714 Fax (81)83321453</phone><electronicMailAddress>gponce@fcb.uanl.mx</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>CONABIO</givenName>          <surName>Comisión nacional para el conocimiento y uso de la biodiversidad</surName>
+    </individualName>
+<organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName><positionName>Dirección General de Sistemas</positionName>    <address>
+<deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint><city>MÉXICO</city><administrativeArea>Tlalpan</administrativeArea><postalCode>14010</postalCode><country>MEXICO</country>    </address>
+<phone>50045000</phone><electronicMailAddress>patricia.ramos@conabio.gob.mx</electronicMailAddress><onlineUrl>https://www.gob.mx/conabio</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2020-05-30
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>&lt;p&gt;Proyecto financiado parcialmente por la Fundación Gonzalo Río Arronte
+Gran parte de la colección referida surge como resultado de la labor de investigación realizada por el Laboratorio de Entomología Médica con cede en FCB-UANL, en conexión a la maestría y doctorado que ofrece desde hace mas de una década. Varios conjuntos curatoriales compuestos de culícidos, triatominos, dictyoptera, siphonaptera, phthiraptera, etc. se han gestado orientados a diferentes objetivos específicos. Los registros cubren localidades referibles a más de 16 entidades federativas con preferencias a la zona noreste y sureste del país. Se requiere un solo cuerpo de especimenes unificado, respaldado y accesible mediante una base de datos. Las colecciones de insectos son bancos de información de referencia útiles en el proceso de evaluar la biología de las especies que son problema médico actual y potencial, así como su distribución geográfica y ecología, importante para estudios epidemiológicos, etc. Aunque nuestra colección está al presente limitada en cantidad de registros, en virtud del impacto en la población humana que presentan estos grupos de artrópodos, pensamos que es sumamente deseable tener un registro moderno y eficiente de tales, ofreciendo  calidad de información crucial para el conocimiento de los principales vectores de enfermedades de importancia regional y nacional.&lt;/p&gt;
+&lt;p&gt;Reino: 1
+Filo: 1
+Clase: 2
+Orden: 10
+Familia: 54
+Género: 134
+Subgénero: 33
+Especie: 215
+Epitetoinfraespecifico: 2&lt;/p&gt;</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Invertebrados</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.snib.mx/proyectos/cgi-bin/datos2.cgi?Letras=CC&amp;Numero=8</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>País: BRASIL (MINAS GERAIS, PARA)
+País: ESTADOS UNIDOS DE AMERICA (LOUISIANA, TEXAS)
+País: GUATEMALA
+País: MEXICO (BAJA CALIFORNIA SUR, CHIAPAS, CHIHUAHUA, COAHUILA DE ZARAGOZA, COLIMA, DISTRITO FEDERAL, DURANGO, GUANAJUATO, GUERRERO, JALISCO, MEXICO, MICHOACAN DE OCAMPO, MORELOS, NAYARIT, NO DISPONIBLE, NUEVO LEON, OAXACA, PUEBLA, QUINTANA ROO, SAN LUIS POTOSI, SINALOA, TABASCO, TAMAULIPAS, VERACRUZ DE IGNACIO DE LA LLAVE, YUCATAN, ZACATECAS)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-110.76</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-86.752</eastBoundingCoordinate>
+                      <northBoundingCoordinate>29.961</northBoundingCoordinate>
+                      <southBoundingCoordinate>14.625</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1947-06-21
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2006-10-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Reino: Animalia
+Filo: Arthropoda
+Clase: Insecta, Arachnida
+Orden: Phthiraptera, Diptera, Siphonaptera, Ixodida, Trombidiformes, Hymenoptera, Hemiptera, Mesostigmata, Sarcoptiformes, Blattodea
+Familia: Menoponidae, Culicidae, Philopteridae, Pulicidae, Linognathidae, Simuliidae, Ixodidae, Demodicidae, Muscidae, Polyplacidae, Sphecidae, Argasidae, Haematopinidae, Fanniidae, Formicidae, Hippoboscidae, Syrphidae, Reduviidae, Laelapidae, Crabronidae, Psoroptidae, Trichodectidae, Pediculidae, Macronyssidae, Glycyphagidae, Sarcoptidae, Tabanidae, Apidae, Laelaptidae, Calliphoridae, Sarcophagidae, Vespidae, Blattidae, Acaridae, Stratiomyidae, Hoplopleuridae, Blaberidae, Pthiridae, Cheyletidae, Ceratophyllidae, Ectobiidae, Cimicidae, Analgidae, Laemobothriidae, Ampulicidae, Ceratopogonidae, Pyroglyphidae, Spinturnicidae, Oestridae, Trombiculidae, Anthophoridae, Chloropidae, Psychodidae, Pompilidae</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Arthropoda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Insecta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Arachnida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Phthiraptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Diptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Siphonaptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ixodida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Trombidiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Hymenoptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Hemiptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Mesostigmata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Sarcoptiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Blattodea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Menoponidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Culicidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Philopteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pulicidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Linognathidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Simuliidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ixodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Demodicidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Muscidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polyplacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sphecidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Argasidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Haematopinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fanniidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Formicidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hippoboscidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Syrphidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Reduviidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laelapidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Crabronidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psoroptidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trichodectidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pediculidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Macronyssidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Glycyphagidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sarcoptidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tabanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laelaptidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Calliphoridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sarcophagidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vespidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Blattidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Acaridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Stratiomyidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hoplopleuridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Blaberidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pthiridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cheyletidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ceratophyllidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ectobiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cimicidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Analgidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laemobothriidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ampulicidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ceratopogonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pyroglyphidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Spinturnicidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Oestridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trombiculidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anthophoridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Chloropidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psychodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pompilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Menacanthus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Culex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Anopheles</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Goniodes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Culiseta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ctenocephalides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Limatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Aedes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Linognathus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Simulium</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Dermacentor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Goniocotes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Psorophora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Demodex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Menopon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Rhipicephalus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Stomoxys</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Toxorhynchites</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Fahrenholzia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Argas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Pulex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Lipeurus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Haematopinus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Fannia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Neivamyrmex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Pseudolynchia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Eristalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Musca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Triatoma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Laelaps</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Columbicola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Trypoxylon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Psoroptes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Deinocerites</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Damalinia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Pediculus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Boophilus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ornithonyssus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Crematogaster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Pogonomyrmex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Glycyphagus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Sarcoptes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Camponotus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Tabanus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Solenopsis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Atta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Chagasia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Apis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Echinolaelaps</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Mansonia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Pachycondyla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Phaenicia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Diachlorus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Coquillettidia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Sabethes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Sarcophaga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cuclotogaster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Polistes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Callitroga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Chrysops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Amblyomma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Wyeomyia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ophionyssus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cochliomyia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Eumenes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Uranotaenia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ophyra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Phormia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Chalybion</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Periplaneta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Thyrophagus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Hermetia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Hoplopleura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ixodes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Pycnoscelus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Pthirus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Anthophora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Otobius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Orchopeas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Blattella</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Trichodectes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Rhodnius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Euodynerus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Sceliphron</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Palistris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Nauphoeta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Myrmica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Tetramorium</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cimex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Blatta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Megninia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Haemaphysalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Laemobothrion</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Blaberus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Panchlora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ectobius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Sphecius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ampulex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Culicoides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Neohaematopinus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ammophila</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Chelopistes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Calliphora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Dermatophagoides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cuterebra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Polybia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Vespa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Monomorium</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Eratyrus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Supella</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Prionyx</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Panstrongylus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Hippelates</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Physconelloides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Trypargilum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Paratrechina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cnephia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Bombus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Trichoprosopon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Psychoda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Oropsylla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Xylocopa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Aponomma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Hemipepsis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Nosopsyllus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Merycomyia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Hypoderma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Prionix</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Haemagogus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Wohlfahrtia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Hoplopsyllus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ornithodoros</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Dipetalogaster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Neostylopyga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Culex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Anopheles</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Culiseta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Ochlerotatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Stegomyia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Psorophora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Psilopelmia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Melanoconion</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Georgecraigius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Aspathia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Lynchiella</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Nyssorhynchus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Janthinosoma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Mansonia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Coquillettidia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Grabhamia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Sabethes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Howardina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Rhynchotaenia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Protomacleaya</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Wyeomyia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Sabethoides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Uranotaenia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Pseudoficalbia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Trichodagmia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Anoedioporpa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Climacura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Aphanilopterus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Triamyia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Opisocrostis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Aedimorphus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Haemagogus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subgenus</taxonRankName>
+                        <taxonRankValue>Notolepria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Menacanthus stramineus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Culex) nigripalpus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) pseudopunctipennis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Goniodes gigas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culiseta (Culiseta) inornata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Culex) tarsalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ctenocephalides felis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Limatus durhamii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) taeniorhynchus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Linognathus setosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Stegomyia) aegypti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dermacentor andersoni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Goniocotes hologaster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psorophora (Psorophora) howardii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Demodex phylloides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Stegomyia) albopictus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) punctipennis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Menopon gallinae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex peus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ctenocephalides canis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Toxorhynchites rutilus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Fahrenholzia ehrlichi</taxonRankValue>
+                          <commonName>piojo chupador</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Argas persicus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pulex irritans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Simulium (Psilopelmia) callidum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lipeurus caponis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Melanoconion) erraticus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Haematopinus suis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Georgecraigius) epactius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pseudolynchia canariensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Musca domestica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhipicephalus sanguineus</taxonRankValue>
+                          <commonName>garrapata marrón del perro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Culex) coronator</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma longipennis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Columbicola columbae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dermacentor variabilis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Simulium (Aspathia) metallicum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Deinocerites cancer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Culex) restuans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Damalinia caprae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Toxorhynchites (Lynchiella) theobaldi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pediculus humanus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Deinocerites pseudes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Boophilus microplus</taxonRankValue>
+                          <commonName>garrapata del ganado bovino, garrapata del ganado del sur</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma protracta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Culex) chidesteri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ornithonyssus sylviarum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Nyssorhynchus) albimanus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psorophora (Janthinosoma) ferox</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Culex) stigmatosoma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Glycyphagus domesticus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) sollicitans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tabanus oculus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psorophora (Psorophora) ciliata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psorophora (Psorophora) lineata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Solenopsis geminata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chagasia bathana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Apis mellifera</taxonRankValue>
+                          <commonName>abeja europea, enjambre, miel de abeja, abeja prieta, abeja, abeja mielera, abeja de la miel</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) serratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Echinolaelaps echidninus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mansonia (Mansonia) dyari</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma pallidipennis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) euplocamus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psorophora (Janthinosoma) cyanescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Melanoconion) taeniopus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) quadrimaculatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) punctimacula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pachycondyla villosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes melanimon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phaenicia sericata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Diachlorus ferrugatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Melanoconion) conspirator</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coquillettidia (Coquillettidia) perturbans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex pipiens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psorophora (Grabhamia) columbiae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Stomoxys calcitrans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sabethes (Sabethes) tarsopus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma mazzotti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Howardina) cozumelensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) nigromaculis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Culex) salinarius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coquillettidia (Rhynchotaenia) venezuelensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culiseta (Culiseta) particeps</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phaenicia cuprina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cuclotogaster heterographus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma barbieri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psoroptes cuniculi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) vestitipennis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Culex) interrogator</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Polistes rubiginosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Callitroga macellaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chrysops pallidefemoratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Protomacleaya) triseriatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Boophilus annulatus</taxonRankValue>
+                          <commonName>garrapata del ganado bovino, garrapata de la fiebre bovina, garrapata bovina americana</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Simulium (Psilopelmia) ochraceum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex bigoti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes atropalpus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amblyomma americanum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Wyeomyia (Wyeomyia) guatemala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ophionyssus natricis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) crucians</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sabethes (Sabethoides) chloropterus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) angustivittatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dermacentor albipictus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cochliomyia hominivorax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Wyeomyia smithii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Uranotaenia (Uranotaenia) lowii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) apicimacula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psorophora (Grabhamia) signipennis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma gerstaeckeri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Atta mexicana</taxonRankValue>
+                          <commonName>cuatalatas, hormiga arriera, arrieras, hormiga chicatana, sontetas, chicatanas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phormia regina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma neotomae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Culex) declarator</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chalybion zimmermanni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma picturata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Periplaneta americana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) bimaculatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hermetia illucens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hoplopleura hirsuta</taxonRankValue>
+                          <commonName>piojo chupador</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ixodes scapularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Simulium (Trichodagmia) earlei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pycnoscelus surinamensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pthirus pubis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pulex simulans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Damalinia equi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Wyeomyia (Wyeomyia) celaenocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex scimitar</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) tormentor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Otobius megnini</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) scapularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Orchopeas howardii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Anoedioporpa) conservator</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Blattella germanica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Trichodectes canis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Polistes annularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhodnius prolixus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex latisquama</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sceliphron caementarium</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Anoedioporpa) restrictor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pogonomyrmex barbatus</taxonRankValue>
+                          <commonName>hormiga cosechadora roja, hormiga colorada</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coquillettidia (Rhynchotaenia) nigricans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nauphoeta cinerea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phaenicia coeruleiviridis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) franciscanus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psorophora (Grabhamia) confinnis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tetramorium caespitum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Melanoconion) pilosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cimex lectularius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Blatta orientalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megninia cubitatis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amblyomma maculatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mansonia (Mansonia) titillans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Wyeomyia chalcocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cochliomyia macellaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Blaberus discoidalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Panchlora nivea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma lecticularia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phaenicia pallescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psoroptes equi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culiseta (Climacura) melanura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Uranotaenia (Uranotaenia) socialis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma phyllosoma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amblyomma cajennense</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes hendersoni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sphecius speciosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sarcoptes scabiei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes togoi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ammophila nigricans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chelopistes meleagridis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) trivittatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dermatophagoides pteronyssinus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Neohaematopinus neotomae</taxonRankValue>
+                          <commonName>piojo chupador</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culex (Culex) thriambus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles perplexens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Damalinia bovis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dermacentor occidentalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eratyrus cuspidatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Culiseta (Culiseta) incidens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) neomaculipalpus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) fulvus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) eiseni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Panstrongylus rufotuberculatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anthophora occidentalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ornithonyssus bacoti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma dimidiata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Physconelloides zenaidurae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes pullatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pogonomyrmex rugosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Polistes (Aphanilopterus) exclamans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Wyeomyia (Triamyia) aporonoma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bombus griseocollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psorophora dimidiata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Trichoprosopon fluviatile</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Georgecraigius) fluviatilis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Prionyx thomae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes insolitus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles malefactor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Uranotaenia (Uranotaenia) coatzacoalcos</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triatoma indictiva</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Protomacleaya) zoosophus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Monomorium pharaonis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) squamiger</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Protomacleaya) sandrae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nosopsyllus fasciatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Aedimorphus) vexans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Haemaphysalis leporispalustris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Prionix thomae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Haemagogus (Haemagogus) regalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Simulium (Notolepria) gonzalezi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anopheles (Anopheles) bradleyi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Wyeomyia (Wyeomyia) abebela</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dipetalogaster maximus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Neostylopyga rhombifolia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aedes (Ochlerotatus) dorsalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Culex pipiens subsp. quinquefasciatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Infraspecific Name</taxonRankName>
+                        <taxonRankValue>Uranotaenia (Pseudoficalbia) anhydor subsp. syntheta</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Sonia Alejandra</givenName>          <surName>Careaga Olvera</surName>
+    </individualName>
+<organizationName>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</organizationName><positionName>Subcoordinadora en Información y Análisis</positionName>    <address>
+<deliveryPoint>Liga Periférico-Insurgentes Sur No. 4903, Col. Parques del Pedregal</deliveryPoint><city>México</city><administrativeArea>Tlalpan</administrativeArea><postalCode>14010</postalCode><country>MEXICO</country>    </address>
+<phone>50045000</phone><electronicMailAddress>scareaga@conabio.gob.mx</electronicMailAddress><onlineUrl>https://www.gob.mx/conabio</onlineUrl>      </contact>
+
+      <project id="SNIB-CC008-CC0081103F_corregida-ND">
+          <title>Computarización de la Colección de insectos y ácaros de importancia médica de la Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León</title>
+          <personnel>
+    <individualName>
+<givenName>Gustavo</givenName>          <surName>Ponce García</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <abstract>
+              <para>Proyecto financiado parcialmente por la Fundación Gonzalo Río Arronte
+Gran parte de la colección referida surge como resultado de la labor de investigación realizada por el Laboratorio de Entomología Médica con cede en FCB-UANL, en conexión a la maestría y doctorado que ofrece desde hace mas de una década. Varios conjuntos curatoriales compuestos de culícidos, triatominos, dictyoptera, siphonaptera, phthiraptera, etc. se han gestado orientados a diferentes objetivos específicos. Los registros cubren localidades referibles a más de 16 entidades federativas con preferencias a la zona noreste y sureste del país. Se requiere un solo cuerpo de especimenes unificado, respaldado y accesible mediante una base de datos. Las colecciones de insectos son bancos de información de referencia útiles en el proceso de evaluar la biología de las especies que son problema médico actual y potencial, así como su distribución geográfica y ecología, importante para estudios epidemiológicos, etc. Aunque nuestra colección está al presente limitada en cantidad de registros, en virtud del impacto en la población humana que presentan estos grupos de artrópodos, pensamos que es sumamente deseable tener un registro moderno y eficiente de tales, ofreciendo  calidad de información crucial para el conocimiento de los principales vectores de enfermedades de importancia regional y nacional.</para>
+          </abstract>
+          <funding>
+              <para>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Invertebrados
+ácaros, alacranes, arañas terrestres, escorpiones, garrapatas, vinagrillos
+chinches besuconas
+insectos como abejas, abejorros, avispas, hormigas
+insectos como chinches, cigarras, pulgones
+insectos como moscas de la fruta, moscas domésticas, mosquitos, tábanos, zancudos
+insectos: cucarachas, termitas, polillas
+insectos: piojos
+insectos: pulgas
+zancudos</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-16T05:24:17Z</dateStamp>
+      <citation>Ponce García G, Comisión nacional para el conocimiento y uso de la biodiversidad C (2020). Computarización de la Colección de insectos y ácaros de importancia médica de la Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. Version 1.8. Comisión nacional para el conocimiento y uso de la biodiversidad. Occurrence dataset https://doi.org/10.15468/sma9a5 accessed via GBIF.org on 2020-07-16.</citation>
+              <bibliography>
+      <citation>Knight, K. L. &amp;  Stone, A. 1977. A catalog of mosquitoes of the world. Second Edition. 6. The Thomas Say Foundation. College Park, Maryland. USA. pp. 611</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1906. Diagnoses of new species of mosquitoes. Proc. Biol. Soc. Wash. 19. 133-142</citation>
+      <citation>Wiedemann, C. R. 1828. Aussereuropaische zweiflugelie insekten. Hamm. xxxii + 608 pp.</citation>
+      <citation>Theobald, F. V. 1901. A monograph of the Culicidae or mosquitoes. 2. London.</citation>
+      <citation>Ludlow, C. S. 1919. New mosquitos from Panama. Psyche. 26: 166-169.</citation>
+      <citation>Tamayo, M. O. &amp;  Gargia, C. A. 1907. Las aquas de Huacachina informe presentado a la Sociedad Geográfica de Lima. Mem. Municip. Lima. 1906. Lima, Perú. 1-63</citation>
+      <citation>Brèthes, J. 1912. Los mosquitos de la República Argentina. Bol. Inst. Ent. Pat. 1: 1-48.</citation>
+      <citation>Lahille, F. 1904. Sobre un Anopheles, una Stegomyia y la notación de las nervaduras alares de los mosquitos. Anal. Mus. Nac. Buenos Aires. 2: 253-263.</citation>
+      <citation>Say, T. 1823. Descriptions of  dipterous insects of the United States. J. Acad. Nat. Sci. Philad. 3. 9-54</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1907. Descriptions of new mosquitoes from the Panama Canal Zone. J. N. Y. Ent. Soc. 15: 197-212.</citation>
+      <citation>Evans, A. M. 1922. Notes on Culicidae in Venezuela, with descriptions of new species. Part II. Ann. Trop. Med. Parasit. 16. 213-222</citation>
+      <citation>Fitch, A. 1847. Winter insects of eastern New York. Revta. Inst. Salubr. Enferm. Trop., Mex. 5. 274-284</citation>
+      <citation>Vargas, L. 1941. El problema de las variedades de A. punctipennis. Descripción de A. punctipennis stonei n. var. (Diptera, Culicidae). Rvta. Soc. Mex. Hist. Nat. 2. 175-186</citation>
+      <citation>Say, T. 1824. Apendix. Part I.-Natural history. 1. Zoology. E. Class Insecta. Narrative of an expedition to the source of St. Peter&apos;s River... Philadelphia. Pp. 268-378</citation>
+      <citation>Van Der Wulp, F. M. 1867. Eenige Noord-Americaansch Diptera. Tijdschr. Ent. 10. 125-164</citation>
+      <citation>Theobald, F. V. 1901. The classification of mosquitoes. J. Trop. Med. 4. 229-235</citation>
+      <citation>Meigen, J. W. 1818. Systematische Beschreibung der bekannten europaischen zweiflugeligen Insekten. 1. Aachen. xxxvi + 333 pp.,</citation>
+      <citation>Blanchard, R. 1901. Obervations sur quelques moustiques. C. R. Soc. Biol. 53: 1045-1046.</citation>
+      <citation>Theobald, F. V. 1902. The classification of the anophelina. J. Trop. Med. 5. 181-183</citation>
+      <citation>Blanchard, R. 1902. Nouvelle note sur les moustiques. C. R. Soc. Biol. 54: 793-795.</citation>
+      <citation>Theobald, F. V. 1903. Report on a collection of mosquitoes and other flies from Equatorial Africa and the Nile provinces of Uganda. Rep. Sleep. Sickn. Comm. R. Soc. 7(3). 32-42</citation>
+      <citation>Theobald, F. V. 1903. A monograph of the Culicidae or mosquitoes. 3. London. 359 pp.</citation>
+      <citation>Theobald, F. V. 1904. New Culicidae from the Federated Malay States. Entomologist. 36.</citation>
+      <citation>Blanchard, R. 1905. Les moustiques historie naturelle et medicale. Paris. 673 pp.</citation>
+      <citation>Coquillett, D. W. 1906. Five new Culicidae from the West Indies. Can. Ent. 38: 60-62.</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1906. The larvae of Culicidae classified as independent organisms. J. N. Y. Ent. Soc. 14: 169-230.</citation>
+      <citation>James, S. P. 1910. A new arregement of the Indian Anophelinae. Rec. Indian Mus. 4: 95-109.</citation>
+      <citation>James, S. P. 1910. Notes on mosquitoes. Paludism (Simla). 1: 33-38.</citation>
+      <citation>Eysell, A. 1912. Cyclophorus (Anopheles) nigripes Staeger (nov. gen.). Arch. Schiffs. U. Tropenhyg. 16. 421-431</citation>
+      <citation>Strickland, C. 1915. Note on Anopheles brevipalpis Roper, and description of its egg and larva. Indian J. med. Res. 3. 201-204</citation>
+      <citation>Da Fonseca, F. &amp;  Da Silva-Ramos, A. 1939. Novo subgenero e novas especies de anofelinas Neotropicas (Diptera Culicidae). Mem. Inst. Butantan. 13: 338-387.</citation>
+      <citation>Da Fonseca, F. &amp;  Da Silva-Ramos, A. 1940. Shannonesia nov. nom. (Dipt. Culicidae). Revta. Ent., Rio de J. 11.</citation>
+      <citation>De Oliveira-Coutinho, J. &amp;  Farias, G. S. 1942. Anopheles (Aryzomia) tibiamaculatus (Neiva, 1906)- Descriaco do macho e criaco de novo sub-genero (Diptera, Culicidae). Ann. Acad. Bras. Sci. 14: 343-349.</citation>
+      <citation>Vargas, L. 1943. Los subgeneros americanos de Anopheles (Diptera, Culicidae). -Anopheles (Russellia) xelajuensis de Leon, 1938 n. subgn. y Anopheles (Coelodiazensis) fausti n. sp. Revta. Inst. Salubr. Enferm. Trop., Mex. 4. 57-77</citation>
+      <citation>McCraken, I. 1904. Anopheles in California, with description of a new species. Ent. News. 15. 9-14</citation>
+      <citation>Vargas, L. 1939. Datos acerca del A. psedopunctipennis y de un anopheles nuevo de Californa. Medicina, Mex. 19.</citation>
+      <citation>Vargas, L. 1941. New variety of Anopheles pseudopunctipennis (Diptera, Culicidae). Bull. Brooklyn Ent. 36. 73-74</citation>
+      <citation>King, W. V. 1939. Varieties of Anopheles crucians Wied. Am. J. Trop. Med. 19: 461-471.</citation>
+      <citation>Ludlow, C. S. 1907. Mosquito notes.- No. 5. Can. Ent. 5(39).</citation>
+      <citation>Theobald, F. V. 1907. A monograph of the Culicidae or mosquitoes. 4. British Museum (Natural History) London. 639 pp.</citation>
+      <citation>Cruz, O. G. 1907. Um novo genero brasiliero da sub-familia Anophelinae. Brasil-med. 21.</citation>
+      <citation>Agramonte, A. 1900. Los mosquitos malaricos. Progr. Med. 10: 455-456.</citation>
+      <citation>Wiedemann, C. R. 1820. Diptera Exotica. Edition 1, Pt. I. Kiel, Germany. p. i-xix + 1-42</citation>
+      <citation>Hoffmann, C. C. 1938. La formación de razas en los Anopheles mexicanos II. Anopheles albimanus y sus variedades en la República Mexicana. An. Inst. Biol. Univ. Mex. 9. 167-180</citation>
+      <citation>Vargas, L. 1950. Nota sobre la distribución holartica del grupo Maculipennis y del sugénero Coelodiazesis. Missirolimiya, nov. subg. de Anopheles. (Diptera: Culicidae). Riv. Parassit. 11. 73-84</citation>
+      <citation>Buonomini, G. &amp;  Mariani, M. 1953. World Anophelines belonging to the subgenus Maculipennia Buonomini &amp;  Mariani, 1946. Riv. Malariol. 32: 173-188.</citation>
+      <citation>Rozeboom, L. E. &amp;  Gabaldon, A. 1941. A summary of the &apos;tarsimaculatus&apos; complex of Anopeles (Diptera: Culicidae). Am. J. Hyg. 33(C). 88-100</citation>
+      <citation>Ross, E. S. &amp;  Roberts, H. R. 1943. Mosquito atlas. Part I. The Neartic Anopheles, important malaria vectors of the Americas and Aedes aegypti, Culex quinquefasciatus. The American Entomological Society. The Academy of Natural Sciences of Philadelphia. (A). Lancaster press. Lancaster, PA, USA. 44 pp.</citation>
+      <citation>Komp, W. H. W. 1941. The species of Nyssorhynchus confused under tarsimaculatus Goeldi, and a new name, A. emilianus, for one species found in Pará, Brazil (Diptera, Culicidae). Ann. Ent. Soc. Am. 34: 791-807.</citation>
+      <citation>Causey, O. R., Deane, L. M. &amp;  Deane, M. P. 1945. Anopheles aquasalis vs. Anopheles tarsimaculatus as the name for the brackish water anopheline of Central and South America and the Caribbean islands. J. Nat. Malar. Soc. 4. 243 - 250</citation>
+      <citation>Curry, D. P. 1932. Some observations on the Nyssorhynchus group of Anopheles (Culicidae) of Panama. Am. J. Hyg. 15: 566-572.</citation>
+      <citation>Peryassu, A. G. 1922. Duas novas especies de mosquitos do Brasil. Folha med. 3: 179.</citation>
+      <citation>Ramos, A. S. 1942. Sobre uma variedade nova de Anopheles (Nyssorhynchus) oswaldoi Peryassu, 1922 (Diptera-Culicidae). Arq. Hig., S. Paulo. 7(15): 61-71.</citation>
+      <citation>Boyd, M. J. 1949. Malariolgy A comprehensive survey of all aspects of this group of diseases from a global standpoint. 1. W. B. Saunders Company. Philadelphia and London. 787 pp.</citation>
+      <citation>Anduze, P. J. 1948. Notas entomológicas I. Dos variedades nuevas de A. aquasalis. Bol. Med. Caracas. 1: 17-19.</citation>
+      <citation>Lane, J. 1953. Neotropical Culicidae. Sao Paulo, Brazil. 1112 pp.</citation>
+      <citation>Root, F. M. 1926. Studies on Brazilian mosquitoes. I. The anophelines of the Nyssorhynchus group. Am. J. Hyg. 6. 684-717</citation>
+      <citation>Galvao, A. L. A., Lane, J. &amp;  Correa, R. 1937. Notas sobre os Nyssorhynchus de S. Paulo. V. Sobre os Nyssorhynchus de Novo Oriente. Rvta. Biol. Hyg., S. Paulo. 8. 37-45</citation>
+      <citation>Cruz, O. G. 1906. Um novo genero da sub-familia Anophelina. Brasil-med. 20: 199-200.</citation>
+      <citation>Dyar, H. G. 1928. The mosquitoes of the Americas. (387). Carnegie Inst. Wash. Publ. Washington, DC. 616 pp.</citation>
+      <citation>Curry, D. P. 1928. A new anopheline mosquito, Anopheles(Chagasia) bathanus Dyar discovered in the Canal Zone. Am. J. Trop. Med. 8: 243-248.</citation>
+      <citation>Theobald, F. V. 1903. A new culicid from Senegal and notes on the species of mosquitoes from there. Mem. Lpool. Sch. trop. Med. 11 Part 2.</citation>
+      <citation>Felt, E. P. 1904. Mosquitoes or Culicidae of New York State. Bull. N. Y. St. Mus. No. 79.</citation>
+      <citation>Ludlow, C. S. 1905. Mosquito notes.- No. 3. Can. Ent. 37. 94-102, 129-135</citation>
+      <citation>Theobald, F. V. 1905. A catalogue of the Culicidae in the Hungarian National Museum, with descriptions of new genera and species. Ann. Hist. Nat. Mus. Hung. 3. 61-120</citation>
+      <citation>Theobald, F. V. 1905. New Culicidae from India, Africa, British Guiana, and Australia. J. Econ. Biol. 1. 17-36</citation>
+      <citation>Theobald, F. V. 1905. Genera Insectorum, Diptera, Fam. Culicidae. 26. Belgium. 50 pp.</citation>
+      <citation>Theobald, F. V. 1905. Some new mosquitoes from Ceylon. J. Bombay Nat. Hist. Soc. 16. 237-250</citation>
+      <citation>Newstead, R., Dutton, J. E. &amp;  Todd, J. L. 1907. Insects and other Arthropoda collected in the Congo Free State. Ann. Trop. Med. Parasit. 1: 1-112.</citation>
+      <citation>Leicester, G. F. 1908. The Culicidae of Malaya. Stud. Inst. med. Res. F. M. S. 3(3). 18-261</citation>
+      <citation>Theobald, F. V. 1909. Description of the new mosquitoes collected by Dr. Graham in Ashanti. Colonial Office Report, misc. Ser. 31: 237.</citation>
+      <citation>Christophers, S. R. 1911. Notes on mosquitoes III. A new culicine, Leslieomyia taeniorhynchoides, nov. gen. et sp. Paludism (Simla). 2-3. 2:8 - 72; 3:130</citation>
+      <citation>Macquart, J. 1834. Historie naturelle des Insectes.- Dipteres, Tome premier. Colection des suites a Buffon. In: N. E. Roret. 1. Paris. 578 pp.</citation>
+      <citation>Rondani, C. 1872. Sulle especie italiane del genere Culex Lin. Boll. Soc. Ent. Ital. 4: 9-31.</citation>
+      <citation>Grassi, G. B. 1898. Rapporti tra la malaria e peculiari insetti (zanzaroni e zanzare palustri). R. C. Accad Lincei. 7. 163-177</citation>
+      <citation>Theobald, F. V. 1901. A monograph of the Culicidae or mosquitoes. 1. London.</citation>
+      <citation>Patton, W. S. 1905. The culicid fauna of the Aden Hinterland, their haunts and habits. J. Bombay Nat. Hist. Soc. 16: 623-637.</citation>
+      <citation>Reinert, J. F. 1972. Contributions to the mosquito fauna of Southeast Asia.-XVI. Genus Aedes Meigen, subgenus Aedimorphus Theobald in Southeast Asia. Contr. Am. Ent. Inst. 9(5).</citation>
+      <citation>Theobald, F. V. 1910. A monograph of the Culicidae or mosquitoes. 5. 646 pp.</citation>
+      <citation>Knight, K. L. &amp;  Hull, W. B. 1953. The Aedes mosquitoes of the Philippine Islands III. Sub-genera Aedimorphus, Banksiella, Aedes, and Cancredes (Diptera, Culicidae). Pacif. Sci. 7: 453-481.</citation>
+      <citation>Theobald, F. V. 1908. New mosquitoes from the Sudan with list and synoptic table of all the known Sudanese species. Report of  Wellcome Research Laboratories. 3. Gordon College. Khartoum, Sudan. 249-267</citation>
+      <citation>Theobald, F. V. 1911. A new genus and two species of Culicidae from Sudan. Report of  Wellcome Research Laboratories. 4B. Gordon College. Khartoum, Sudan. 151-156</citation>
+      <citation>Edwards, F. W. 1941. Mosquitoes of the Ethiopian Region. III.-Culicine adults and pupae. British Museum (Natural History). London. 499 pp.</citation>
+      <citation>Theobald, F. V. 1913. Culicide of New Caledonia and the Loyalty Islands. Nova Caledonia. In: F. Sarasin &amp;  J. Roux. 1. Wesbaden, Germany. 163-164</citation>
+      <citation>Howard, L. O., Dyar, H. G. &amp;  Knab, F. 1917. The mosquitoes of North and Central America and the West Indes. Systematic description, part II. 4(159). Carnegie Inst. Wash. Publ. Washington, DC. pp. 525-1064,</citation>
+      <citation>Ludlow, C. S. 1905. Mosquito notes.- No. 4. Can. Ent. 37.</citation>
+      <citation>Theobald, F. V. 1910. Second report on the collection of Culicidae in the Indian Museum, Calcutta, with descriptions of new genera and species. Rec. Indian Mus. 4. 1-33</citation>
+      <citation>Taylor, F. H. 1914. The Cuilcidae of Australia. I. Trans. R. Ent. Soc. Lond. 1914. 683-708</citation>
+      <citation>Vargas, L. 1950. Los subgéneros de Aedes. Downsiomyia n. subgen. (Diptera: Culicidae). Revta. Inst. Salubr. Enferm. trop., Mex. 11. 61-69</citation>
+      <citation>Lynch-Arribalzaga, F. 1891. Dipterología argentina. Rvta. Mus. La Plata. 1: 345-377.</citation>
+      <citation>Dyar, H. G. 1905. Remarks in genitalic genera in the Culicidae. Proc. Ent. Soc. Wash. 7: 42-49.</citation>
+      <citation>Coquillett, D. W. 1906. On the breaking-up of the old genus Culex. Science N. S. 23.</citation>
+      <citation>Strickland, C. 1911. Some new Culicidae from western Australia, South Queensland, and Tasmania. -A new species from South Queensland. Entomologist. 44.</citation>
+      <citation>Vargas, L. 1950. Nota sobre Aedes. Revision de algunos Ochlerotatus Americanos. Kummyia n. subgen. (Diptera Culicidae). Rvta. Soc. mex. Hist. nat. 11. 149-159</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1908. Descriptions of some new mosquitoes from tropical America. Proc. U. S. Nat. Hist. Mus. 35(1632). 53-70</citation>
+      <citation>Dyar, H. G. 1925. Some mosquitoes from Venezuela (Diptera, Culicida). Insec. Inscit. Menst. 13: 213-216.</citation>
+      <citation>Martínez, A. &amp;  Prosen, A. F. 1953. Una nueva especie de mosquito de la Argentina. Publ. Mis. Estud. Pat. Jujuy. 1: 1-2.</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1907. Descriptions of some American mosquitoes. J. N. Y. Ent. Soc. 15. 9-13</citation>
+      <citation>Ronderos, R. A. &amp;  García, M. 1962(1963). Nota sinonimica en Culicidae (Diptera). Revta Soc. ent. argent. 25. 38</citation>
+      <citation>Coquillett, D. W. 1902. Three new species of Culex. Can. Ent. 34: 292-293.</citation>
+      <citation>Zavortink, T. J. 1972. Mosquito studies (Diptera, Culicidae) XXVIII. The New World species formerly placed in Aedes (Finlaya). Contr. Am. Ent. Inst. 8(3). 1-206</citation>
+      <citation>Coquillett, D. W. 1902. New Diptera from North America. Proc. U. S. Nat. Hist. Mus. 25: 83-126.</citation>
+      <citation>Vargas, L. 1941. Aedes (Ochlerotatus) rozeboomi nueva especie (Dipt. Culicidae). Gac. Med. Mex. 71. 393-395</citation>
+      <citation>Ross, E. S. 1943. The identity od Aedes bimaculatus (Coquillett) and a new subspecies od Aedes fulvus (Wiedemann) from the United States (Diptera, Culicidae). Proc. Ent. Soc. Wash. 45. 143-151</citation>
+      <citation>Meigen, J. W. 1830. Systematische Beschreibung der bekannten europaeischen zweifluegeligen Insekten. 6. Hamburg. iv + 401 pp.</citation>
+      <citation>Coquillett, D. W. 1901. Three new species of Culicidae. Can. Ent. 33: 258-260.</citation>
+      <citation>Coquillett, D. W. 1906. A new Culex near curriei. Ent. News. 17: 109.</citation>
+      <citation>Theobald, F. V. 1913. A new mosquito from northern China. Entomologist. 46. 179-180</citation>
+      <citation>Ludlow, C. S. 1919(1920). New Siberian Culicidae (Diptera). Insec. Inscit. Menst. 7: 151-161.</citation>
+      <citation>Dyar, H. G. 1921. Three new mosquitoes from Costa Rica (Diptera, Culicidae). Insec. Inscit. Menst. 9: 34-36.</citation>
+      <citation>O&apos;meara, G. F. &amp;  Craig, G. B. 1970. A new subespecies of Aedes atropalpus (Coquillett) from southwestern United States (Diptera: Culicidae). Proc. Ent. Soc. Wash. 72: 475-479.</citation>
+      <citation>O&apos;meara, G. F. &amp;  Craig, G. B. 1970. Geographical variation in Aedes atropalpus (Diptera: Culicidae). Ann. Ent. Soc. Am. 63: 1392-1400.</citation>
+      <citation>Walker, F. 1856. Insecta Saundersiana: or characters of undescribed insects in the collection of William Wilson Sauders. Diptera. 1. London. 474 pp.</citation>
+      <citation>Coquillett, D. W. 1904. New North American Diptera. Proc. Ent. Soc. Wash. 6: 166-192.</citation>
+      <citation>Dyar, H. G. 1917. A new Aedes from the Rocky-mountain region (Diptera, Culicidae). Insec. Inscit. Menst. 5: 127-128.</citation>
+      <citation>Villeneuve, J. 1919. Deuxime note sur les Nematoceres vulnerants (Dipt.)(Especies Francaises). Bull. Soc. Ent. Fr. 2. 54-60</citation>
+      <citation>Dyar, H. G. 1920. Notes on European mosquitoes (Diptera, Culicidae). Insec. Inscit. Menst. 8: 51-54.</citation>
+      <citation>Martini, E. 1920. Ueber Stechmuecken besonders deren europaische Arte und ihre Bekampfung. Arch. Schiffs. U. Tropenhyg. 24: 1-267.</citation>
+      <citation>Dyar, H. G. 1925. The mosquitoes of the Peary&apos;s North Pole expedition of 1908 (Diptera, Culicidae). J. Wash. Acad. Sci. 15: 77-78.</citation>
+      <citation>Vockeroth, J. R. 1954. Notes on northen species of Aedes, with descriptions of two new species (Diptera: Culicidae). Can. Ent. 86. 109-116</citation>
+      <citation>Apfelbeck, V. 1929. Neue culiciden aus Bosnien und Dalmatien. Konowia. 8: 286-292.</citation>
+      <citation>Rondani, C. 1848. Essame di varie specie d&apos;nsetti ditteri brasiliani. Stud. Ent. (Turin). 1. 63-112</citation>
+      <citation>Ludlow, C. S. 1904. Mosquito notes. Can. Ent. 36: 233-236.</citation>
+      <citation>Wiedemann, C. R. 1821. Diptera exotica. Edition 1, Pt. II. Kiliae (= Kiel, Germany). pp. i-iv + 43-50.</citation>
+      <citation>Giles, G. M. 1904. Notes on some collections of mosquitoes received from aboard. J. Trop. Med. 7. 381-384</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1914. New mosquitoes from Peru (Diptera, Culicidae). Insec. Inscit. Menst. 2.</citation>
+      <citation>Coquillett, D. W. 1902. New forms of Culicidae from North America. J. N. Y. Ent. Soc. 10: 191-194.</citation>
+      <citation>Grossbeck, J. A. 1904. Description of two new species of Culex. Ent. News. 15. 332-333</citation>
+      <citation>Bourroul, C. 1904. Mosquitos do Brasil. Bahia. 78 pp.</citation>
+      <citation>Lutz, A. 1904. A. Lutz. Mosquitos do Brasil. Bahia. 78 pp.</citation>
+      <citation>Cockerell, T. D. A. 1918. The mosquitoes of Colorado. J. Econ. Ent. 49: 195-200.</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1917(1918). New American mosquitoes (Diptera, Culicidae). Insec. Inscit. Menst. 5: 165-169.</citation>
+      <citation>Theobald, F. V. 1901. Notes on a collection of mosquitoes from West Africa, and descriptions of new species. Mem. Lpool. Sch. Trop. Med. 4. i-xiv</citation>
+      <citation>Theobald, F. V. 1906. Report of economic entomology. Part I. Second report on the mosquitoes or Culicidae of the Sudan. Report of  Wellcome Research Laboratories. 2. Gordon College. Khartoum, Sudan. 67-83</citation>
+      <citation>Ludlow, C. S. 1908. The mosquitos of the Philippine Islands. The distribution of certain species, and their ocurrence in relation to the incidence of certain disaeses. 65 pp.</citation>
+      <citation>Enderlein, G. 1923. Zur Kenntnis afrikanischer und orientalischer Culiciden. Wien. Ent. Ztg. 40. 25-29</citation>
+      <citation>Dyar, H. G. &amp;  Shannon, R. C. 1925. The types of Philippine mosquitos described by Ludlow and other notes on the fauna. (Diptera, Culicidae). Insec. Inscit. Menst. 13(NAN). 66-89</citation>
+      <citation>Poriet, J. L. M. 1787. Memorie sur quelques insectes de Barbarie. Phys. Chim. Hist. Nat. Arts, Paris. 30.</citation>
+      <citation>Fabricius, J. C. 1805. Systema antliatorum secundum ordines, genera, species, adiectis synonymis, locis, observationibus, descriptionibus. Brunsvigae [= Brunswick]. 373 pp. + 30 pp.</citation>
+      <citation>Robineau-Desvoidy, J. B. 1827. Essai sur la tribu des culicides. Mem. Soc. Hist. Nat. Paris. 3: 390-413.</citation>
+      <citation>Brulle, A. 1833. Expedition scientifique de Moree. Insectes. Vol. 3, part 2. Paris. 395 pp.</citation>
+      <citation>Macquart, J. 1838. Dipteres exotiques nouveaux ou peu connus. Mem. Soc. Sci. Lille. 2: 9-225.</citation>
+      <citation>Belkin, J. N. 1968. Mosquito studies (Diptera, Culicidae). IX. The type specimens of New World mosquitoes in European museums. Contr. Am. Ent. Inst. 3(4): 1-69.</citation>
+      <citation>Macquart, J. 1844(1846). Dipteres exotiques nouveaux ou peu connus. [Ier] Supplement. Mem. Soc. Sci. Lille. 133-364.</citation>
+      <citation>Mattingly, P. F. &amp;  Bruce-Chwatt, L. J. 1954. Morphology and bionomics of Aedes (Stegomyia) pseudoafricanus Chwatt (Diptera, Culicidae), with some notes on the distribution of the subgenus Stegomyia in Africa. Ann. Trop. Med. Parasit. 48: 183-193.</citation>
+      <citation>Walker, F. 1848. List of the specimens of dipterous insects in the collection of the British Museum, Part I. British Museum. London. 484 pp.</citation>
+      <citation>Skuse, F. A. A. 1889. Diptera of Australia. Part V.- The Culicidae. Proc. Linn. Soc. N. S. W. 3. 1717-1764</citation>
+      <citation>Ficalbi, E. 1889(1890). Descrizione di una specie nuova. Zanara elegante, Culex elegans . sp. (Notizie preventive sulle zanzare italiane. Vª. Nota preventiva). Boll. Soc. Ent. Ital. 21. 95-100</citation>
+      <citation>Giles, G. M. 1899. A description od the Culicidae employed byMajor R. Ross, I.M.S. in his investigations on malaria. J. Trop. Med. 2. 62-65</citation>
+      <citation>Becker, T. 1908. Dipteren der Kanarischen Inslen. Mitt. Zool. Mus. Berl. 4: 67-195.</citation>
+      <citation>Ludlow, C. S. 1911. The Philippine mosquitoes. Psyche. 18: 125-133.</citation>
+      <citation>Taylor, F. H. 1919. Contributions to a knowledge of Australian Culicidae. Proc. Linn. Soc. N. S. W. 43. 826-843</citation>
+      <citation>Knight, K. L. &amp;  Marks, E. N. 1952. An annotated checklist of the mosquitoes of the subgenus Finlaya, genus Aedes. Proc. U. S. Nat. Hist. Mus. 101: 513-574.</citation>
+      <citation>Linnaeus, C. 1762. Zweyter Theil, enthalt Beschreibungen verschiedener wichtiger Naturalien. Reise nach Palastina in den Jahren von 1749 bis 1752. Rostock, Germany. Pp 267-606</citation>
+      <citation>Ludlow, C. S. 1903. Some Philippine mosquitoes. J. N. Y. Ent. Soc. 11: 137-144.</citation>
+      <citation>Ventrillon, E. 1904. Description de culicides de Madagascar. Bull. Mus. Hist. Nat. Paris. 10. 550-555</citation>
+      <citation>Levi-Castillo, R. 1953. Aedes garciai n. sp. un aedino nuevo para la fauna ecuatoriana.-Lanesia, nuevo subgenero de Aedes. Revta. ecuator. Ent. Parasit. 1(3). 101-106</citation>
+      <citation>Belkin, J. N., Heinemann, S. J. &amp;  Page, W. A. 1970. Mosquito studies (Diptera, Culicidae). XXI. The Culicidae of Jamaica. Contr. Am. Ent. Inst. 6(1): 1-458.</citation>
+      <citation>Aitken, T. H. G. 1940. The genus Psorophora in California (Diptera, Culicidae). Rev. Entomol. 11: 672-682.</citation>
+      <citation>Lynch-Arribalzaga, F. 1891. Dipterología argentina. Revta. Mus. La Plata. 2: 131-174.</citation>
+      <citation>Lutz, A. &amp;  Neiva, A. NA. Notas dipterolojicas.-Dipterologische Mitteilungen.</citation>
+      <citation>Dyar, H. G. 1920. The Grabhamia group of Psorophora (Diptera, Culicidae). Insec. Inscit. Menst. 8: 140-141.</citation>
+      <citation>Pinto, C. 1932. Alguns mosquitos do Brasil e do oriente da Bolivian (Diptera, Culicidae). Revta. med.-cirurg. Brazil. 40: 285-309.</citation>
+      <citation>Lutz, A. 1928. Estudios de zoología y parasitología venezuelanos. Rio de Janeiro. 133 pp.</citation>
+      <citation>Coquillett, D. W. 1902. New orhorrhaphous Diptera from Mexico and Texas. J. N. Y. Ent. Soc. 10: 136-141.</citation>
+      <citation>Edwards, F. W. 1922. Mosquito notes.- III. Bull. Ent. Res. 13. 75-102</citation>
+      <citation>von Humboldt, F. H. A. 1819. Voyage aux regions equinoxiales du Nouveau Continent, fait en 1799, 1800, 1801, 1802, 1803 et 1804 par Al. de Humboldt et A. Bonplad. Voyage de MM Alexandre de Humboldt et Aime Bonpland. Pt. I: Relation Historique. In: F. H. A. Humboldt. 2. Paris. 722 pp.</citation>
+      <citation>Say, T. 1829. Descriptions of North American dipterous insects. J. Acad. Nat. Sci. Philad. 6. 149-178</citation>
+      <citation>Grabham, M. 1906. Four new Culicidae from Jamaica. Can. Ent. 38. 311-320</citation>
+      <citation>Coquillett, D. W. 1906. A classification of the mosquitoes of North and Middle America. Tech. Ser. U. S. Bur. Ent. 11: 1-31.</citation>
+      <citation>Stone, A., Knight, K. L. &amp;  Starcke, H. 1959. A synoptic cataloge of the mosquitoes of the world (Diptera, Culicidae). 6. The Tomas Say Foundation, Ent. Soc. Am. Baltimore, Maryland. 358 pp.</citation>
+      <citation>Pazos, J. H. NA. An. Acad. Habana. Am. J. Hyg. 417-432.</citation>
+      <citation>Brèthes, J. 1910. Dipteros nuevos o poco conocidos de Sud América. An. Mus. Nac. B. Aires. 20: 469-484.</citation>
+      <citation>Brèthes, J. 1916. Algunas notas sobre mosquitos Argentinos. An. Mus. Nac. B. Aires. 28: 193-218.</citation>
+      <citation>Dyar, H. G. 1918. New American mosquitoes (Diptera, Culicidae). Insec. Inscit. Menst. 6: 120-129.</citation>
+      <citation>Fabricius, J. C. 1794. Entomologia systematica emendata et aucta. 4. Hafniae [= Copenhagen]. 472 pp.</citation>
+      <citation>Surcouf, J. M. R. &amp;  Gonzalez-Rincones, R. 1911. Essai sur les dipteres vulnerants du Venezuela. Premiere partie. Dipteres nematoceres vulnerants. Paris. 320 pp.</citation>
+      <citation>Russell, P. F., Rozeboom, L. E.,  &amp;  Stone, A. 1943. Keys to the anopheline mosquitoes of the world with notes on their dentification, distribution, biology and relation to malaria. Philadelphia, American Entomological Society, Academy Natural Science 152 pp.</citation>
+      <citation>Belkin, J. N. &amp;  McDonald, W. A. 1956. A population of Uranotaenia anhydor from Death Valley, with descriptions of all stages and discussion of the complex. Ann. Ent. Soc. Am. 49: 105-132.</citation>
+      <citation>Shannon, R. C. &amp;  Del Ponte, E. 1927 (1928 ). Los culicidos en la Argentina. Revta. Inst. Bact. 5.</citation>
+      <citation>Lane, J. 1943. Sobre o genero Uranotaenia (Diptera, Culicidae, Culicini). Revta. Ent., Rio de J. 14: 137-161.</citation>
+      <citation>Bonne-Wepster, J. &amp;  Bonne, C. 1919(1920). Diagnoses of new mosquitoes from Surinam, with a note on synonymy. Insec. Inscit. Menst. 9: 1-26.</citation>
+      <citation>Lane, J. 1951. Synonymy of Neotropical Culicidae (Diptera). Proc. Ent. Soc. Wash. 53: 333-336.</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1909. Descriptions of some new species and a new genus of American mosquitoes. Smithson. Misc. Coll. 52(1822). 253- 266</citation>
+      <citation>Castro, M. &amp;  Bressanello, M. 1952. Revisión de las especies de &apos;Taeniohychus (Rhynchotaenia)&apos;. Revista Brasileira de Biologia. 12: 229-264.</citation>
+      <citation>Belkin, J. N. 1953. Mosquitoes of the genus Uranotaenia in the Solomon Islands. Pacif. Sci. 7(3): 312- 391.</citation>
+      <citation>Theobald, F. V. 1912. No. V - Diptera, Culicidae. Trans. Linn. Soc. 15. 81-94</citation>
+      <citation>Dyar, H. G. 1907. Report on the mosquitoes of the coast region of California, with descriptions of new species. Proc. U. S. Nat. Hist. Mus. 32: 121-129.</citation>
+      <citation>Laveran, A. 1902. Description d`un moustique dont le male possede un trompe faucille. C. R. Soc. Biol. 54. 1158- 1160</citation>
+      <citation>Dyar, H. G. 1919. A revision of the American Sabethini of the Sabethes group by the male genitalia. Insec. Inscit. Menst. 7: 114-142.</citation>
+      <citation>Bonne, C. &amp;  Bonne-Wepster, J. 1921. Notes on South American mosquitoes in the British Museum. Insec. Inscit. Menst. 9: 1-26.</citation>
+      <citation>Scudder, S. H. 1882. Nomenclator Zoologicus. An alphabetical list of all generic names that have been employed by naturalists for resent and fossil animals from the earliest time to the close of the year 1879. Bull. U. S. Nat. Mus. 19. 1- 376</citation>
+      <citation>Lutz, A. 1905. Novas especies de mosquitos do Brasil. Impr. Med. S. Paulo. 13.</citation>
+      <citation>Dyar, H. G. &amp;  Shannon, R. C. 1924. The Subfamilies, tribes and genera of American Culicidae. J. Wash. Acad. Sci. 14. 472- 483</citation>
+      <citation>Dyar, H. G. 1922. Mosquito notes (Diptera, Cilicidae). Insec. Inscit. Menst. 10: 92-99.</citation>
+      <citation>Gillett, J. D. 1949. Further notes on the Ethiopian species of taeniorhynchus. Proc. Ent. Soc. Lond. 17. 97-102</citation>
+      <citation>Surcouf, J. M. R. 1912. Note sur les culicides. Bull. Mus. Hist. Nat. Paris. 18: 59-61.</citation>
+      <citation>Howard, L. O., Dyar, H. G. &amp;  Knab, F. 1912(1913). The Mosquitoes of North and Central America and the West Indies. 1; 2(159). Carnegie Inst. Wash. Publ. Washington, DC. Vol. 1 (1912) 520 pp., Vol. 2 (1913) x + 150 pls.</citation>
+      <citation>Neveu-Lemaire, M. 1902. Sur la classification des Culicides. C. R. Soc. Biol. 54: 1329-1332.</citation>
+      <citation>Williston, S. W. 1893. List of Diptera of the Death Valley Expedition. Report on a small collection of insects made during the Death Valley Expedition. North American Fauna. 7. 253-259</citation>
+      <citation>Adams, C. F. 1903. Dipterological contributions. Kans. Univ. Sci. Bull. 2: 21-47.</citation>
+      <citation>Giles, G. M. 1902. A handbook of the gnats or mosquitoes giving the anatomy and life history of the Culicidae, together with descriptions of all species notices up to the press date. London. xi + 530 pp.</citation>
+      <citation>Knab, F. 1907. A new genus and species of sabethid mosquito. J. N. Y. Ent. Soc. 15: 120-121.</citation>
+      <citation>Christophers, S. R. 1906. On the importance of larval characters in the classification of the mosquitoes. Sci. Mem. med sanit. Dept. India. 25. 18</citation>
+      <citation>Bellardi, L. 1862. Appendice. Saggio di ditterologia messicana. Torino, Italia. 28 pp.</citation>
+      <citation>Lane, J. 1936. Notas sobre mosquitos de Sao Paulo. Revta. Mus. Paul. 20: 429-435.</citation>
+      <citation>Dyar, H. G. 1918. A revision of the American species of Culex on the male genitalia. Insec. Inscit. Menst. 6: 86-111.</citation>
+      <citation>Aiken, J. 1911. A synoptical view of the mosquitoes of British Guiana. Timehri. 1: 187-204.</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1907. New American Mosquitoes. J. N. Y. Ent. Soc. 15: 100-101.</citation>
+      <citation>Knight, K. L. &amp;  Bradley, H. G. 1937. Notes on Culex erraticus and related species in the United States. Ann. Ent. Soc. Am. 30: 345-357.</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1907. Descriptions of three new North American mosquitoes. J. N. Y. Ent. Soc. 15: 213-214.</citation>
+      <citation>Pazos, J. H. 1908. Descripcion de nuevas especies de mosquitos de Cuba. An. Acad. Habana. 45: 417-432.</citation>
+      <citation>Klug, F. &amp;  Dyar, H. G. 1909. Mosquito comment. Can. Ent. 41: 101-102.</citation>
+      <citation>Knab, F. &amp;  Dyar, H. G. 1917 (1918). The genus Culex in the United States. Insec. Inscit. Menst. 5(10-12): 170-183.</citation>
+      <citation>Dyar, H. G. 1921. Notes on the North American species of Choeroporpa. Insec. Inscit. Menst. 9: 37-39.</citation>
+      <citation>Dyar, H. G. &amp;  Ludlow, C. S. 1921. Two new American mosquitoes (Diptera, Culicidae). Insec. Inscit. Menst. 9. 46 - 50</citation>
+      <citation>Root, F. M. 1922. Notes on mosquitoes and other blood- sucking files from Porto Rico. Am. J. Hyg. 2: 394-405.</citation>
+      <citation>Evans, A. M. 1924. Descriptions of new mosquitos fron South America. Ann. Trop. Med. Parasit. 18. 363 - 375</citation>
+      <citation>Komp, W. H. W. &amp;  Curry, D. P. 1932. A new Culex from Panama. Psyche. 39: 82-84.</citation>
+      <citation>Anduze, P. J. 1941. Primer informe sobre entomologia medica del Estado Bolivar (Venezuela), Serie 1. Fauna culicidiana. Descripcion de tres especies nuevas (Diptera, Culicidae). Revista de Sanidad y Asistencia Social. 6: 812-836.</citation>
+      <citation>Linnaeus, C. 1758. Systema naturae per regna tria naturae, secundum Classes, Ordines, Genera, Species, cum Characteribus, Differentiis, Synonymis, Locis. 1. Holmiae. 824 pp</citation>
+      <citation>Theobald, F. V. 1903. Report on a collection of mosquitoes or Culicidae, etc, from Gambia, and descriptions of new species . Mem. Lpool. Sch. trop. Med. 10 (App). i - xi</citation>
+      <citation>Ventrillon, E. 1905. Culicides nouveaux de Madagascar. Bull. Mus. Hist. Nat. Paris. 11. 427-431</citation>
+      <citation>Brunetti, E. 1912. Annotated catalogue of Oriental Culicidae - Suplement. Rec. Indian Mus. 4: 403-517.</citation>
+      <citation>Izquierdo, J. J. 1916. Investigaciones sobre paludismo en Puebla. Tesis de Licenciatura (Biologo). Puebla. 100 pp.</citation>
+      <citation>Dyar, H. G. 1917 (1918). A second note on the species of Culex of the Bahamas. Insec. Inscit. Menst. 5: 183-187.</citation>
+      <citation>Bram, R. A. 1967. Classification of Culex subgenus Culex in the world (Diptera, Culex). Proc. U. S. Nat. Hist. Mus. 120: 1-122.</citation>
+      <citation>Vargas, L. &amp;  Martínez-Palacios, A. 1954. Culex (Culex) coronator mooseri n. subsp. de México. Revta. Inst. Salubr. Enferm. trop., Mex. 14. 33-37</citation>
+      <citation>Theobald, F. V. 1905. Notes on some Jamaican Culicidae. Can. Ent. 37. 401-411</citation>
+      <citation>Knab, F. &amp;  Dyar, H. G. 1909. On the identity of Culex pipiens Linneus. (Diptera, Culicidae). Proc. Ent. Soc. Wash. 11: 30-39.</citation>
+      <citation>Martini, E. 1914. Some new American mosquitoes. Insec. Inscit. Menst. 2: 65-76.</citation>
+      <citation>Levi-Castillo, R. 1954. Culex ( Phalangomyia) azuayus n. sp., un nuevo mosquito  de altura del Ecuador (Diptera, Culicidae). Revta. ecuator. Ent. Parasit. 2. 263 - 267</citation>
+      <citation>Mueller, O. F. 1764. Fauna insectorum Fidrichsdalina, sive methodica descriptio insectorium agri Fridechsdalinensis, cun characteribus generisis et specificis, nominibus trivialibus, locis natalibus, iconibus allegatis, novisque pluribus speciebus additis. Copenhagen y Liepzig. xxiv + 96 pp.</citation>
+      <citation>Meigen, J. W. 1804. Klassifikazion und Breschreibug der europaischen zweiflugeligen Insekten (Diptera Linn.). Braunschweig. Abt I, pp. i - xxviii + 1 - 152 ; Abt. II, pp. i - vi + 153 -314</citation>
+      <citation>Stephens, J. F. 1825. Some observations on the British Tipulidae, together with desciptions of the species of Culex and Anopheles found in Britain. Zool. J. Lond. 1. 448-457</citation>
+      <citation>Leach, W. E. 1825. Description of thirteen species of Formica and three species of Culex, found in the environs of Nice. Zool. Journal. 2. London.</citation>
+      <citation>Waltl, J. 1835. Reise durch Tyrol, Oberitalien und Piemont nach dem sudlichen Spainen...nebst einem Anhang zoologischen Inhalts. 2. Passau, Pustet.</citation>
+      <citation>Curtis, J. 1837. A guide to an arrangement of British Insects. London. 294 pp.</citation>
+      <citation>Bigot, J. M. F. 1888. Descriptions des especes nouvelles. Expl. Scient. Tunisie. 7-11.</citation>
+      <citation>Bigot, J. M. F. 1889. Communications. - M. J. M. F. Bigot envoie de Quincy, une note sur une nouvelle especie du genere Culex. Ann. Soc. Ent. Fr. 9. cxxii</citation>
+      <citation>Ficalbi, E. 1889(1890). Notizie preventive sulle zanzare italiane. VI Nota preventiva. Quistioni zoologiche intorno al Culex pipiens e descrizione di una specie nuova (Culex phytophagus). Boll. Soc. Ent. Ital. 21. 124 - 131</citation>
+      <citation>Giles, G. M. 1900. A handbook of the gnats or mosquitoes giving the anatomy and life history of the Culicidae. London. 374 pp.</citation>
+      <citation>Bonne, C. &amp;  Bonne-Wepster, J. 1919. Four new South American mosquitoes (DIptera, Culicidae). Insec. Inscit. Menst. 7: 105-113.</citation>
+      <citation>Da Costa-Lima, A. 1930. Sobre especies do genero Miamyia, subgenero Miamyia (2 da Nota) (Diptera, Culicidae). Mem. Inst. Osw. Cruz. 24: 187-194.</citation>
+      <citation>Dyar, H. G. 1923. On some of the American subgenera Culex (Diptera, Culicidae). Insec. Inscit. Menst. 11: 187-190.</citation>
+      <citation>Becker, T. 1903. Aegyptische Dipteren. Mitt. Zool. Mus. Berl. 2: 67-195.</citation>
+      <citation>Edwards, F. W. 1912. Notes on the British mosquitos (Culicinae). Entomologist. 45. 260 - 264,</citation>
+      <citation>Roubaud, M. E. 1957. Biologie des mousquites- Sur 1´ existense de deux entities biologiques distinctes dans la definition du moustique commun rural, Culex pipiens pipiens. C. R. Acad. Sci. Paris. 244. 3115 - 3116</citation>
+      <citation>Stone, A. 1956 (1957). Corrections in the taxonomy and nomenclature of mosquitoes (Diptera, Culicidea). Proc. Ent. Soc. Wash. 58. 333-344</citation>
+      <citation>Stone, A. 1958. The identity of Culex aestuans Wiedmman (Diptera, Culicidae). Proc. Ent. Soc. Wash. 60. 186</citation>
+      <citation>Doleschall, C. L. 1856. Eerste bijdrague tot de kennis der dipterologische fauna. Natuurk. Tijdsschr. Ned.-Ind. 10: 403-414.</citation>
+      <citation>Bigot, J. M. F. 1857. Dipteros. Historia fisica, politica y natural de la Isla de Cuba. 7. Paris. pp. 328 - 349</citation>
+      <citation>Bigot, J. M. F. 1859. Dipteres de Madagascar. Premiere partie. Ann. Soc. Ent. Fr. 3(7): 115-135.</citation>
+      <citation>Philippi, R. A. 1865. Aufzahlung der chilenischen dipteren. Verhandlungen des Zoologisch-Botanischen Vereins in Wien. 15: 595-782.</citation>
+      <citation>Weyenbergh, S. H. 1882. Los habitantes del Rio Primero. Imprenta y encuadernacion de Rius y Becchi. Montevideo. 27 pp.</citation>
+      <citation>Sánchez, J. 1885. Nota los moscos zancudos que han invadido la capital en el presente año. La Naturaleza. 7. 203 - 213</citation>
+      <citation>Giles, G. M. 1901. A plea for the collective investigation of Indian Culicidae, with sugesstions as to moot point for enquiry, and a prodromus of species know to the author. J. Bombay Soc. 13. 592 - 610</citation>
+      <citation>Theobald, F. V. 1904. The mosquitoes of Egypt and the Sudan and Abyssinia. First Report Wellcome laboratories. 1. Gordon College. Khartoum. 62-84</citation>
+      <citation>Neveu-Lemaire, M. 1906. Etudes des culicides africains (mission du Bourg de Bozas en Afrique tropical). Arch. Parasit. Paris. 10: 238-288.</citation>
+      <citation>Theobald, F. V. 1908. First report on the collection of Culicidae and Corethridae in the Indian Museum, Calcutta, with descriptions of new genera and species. Rec. Indian Mus. 2. 287-302</citation>
+      <citation>Theobald, F. V. 1911. The Culicidae  or mosquitoes of the Transvaal. 1. South Africa Veterinary Division Report. South Africa. 232 272</citation>
+      <citation>Knab, F. &amp;  Dyar, H. G. 1915. Notes on the species of Culex of the Bahamas. Insec. Inscit. Menst. 3: 112-115.</citation>
+      <citation>Dyar, H. G. 1920. A collection of mosquitoes from the Philippine Islands (Diptera, Culicidae). Insec. Inscit. Menst. 8: 175-186.</citation>
+      <citation>Enderlein, G. 1920. Die culiciden-fauna Madagascars. Wien. Ent. Ztg. 38. 47 - 52</citation>
+      <citation>Knab, F. 1916. A new mosquito from the eastern United States. Proc. Biol. Soc. Wash. 29: 161-163.</citation>
+      <citation>Branch, N. &amp;  Seabrook, E. L. 1959. Culex (Culex) scimitar, a new species of mosquito from the Bahama Islands (Diptera, Culicidae). Proc. Ent. Soc. Wash. 61: 216-218.</citation>
+      <citation>Coquillett, D. W. 1896. New Culicidae from North America. Can. Ent. 28: 43-44.</citation>
+      <citation>Theobald, F. V. 1903. Description of a new North America Culex. Can. Ent. 35. 211-213</citation>
+      <citation>Dyar, H. G. 1921. Ring-legged Culex in Texas (Diptera, Culicidae). Insec. Inscit. Menst. 9: 32-34.</citation>
+      <citation>Williston, S. W. 1896. On the Diptera of St. Vincent (West Indies)- (Dolichopodidae and Phoridae, by for J.M. Aldrich). Trans. R. Ent. Soc. Lond. 44. 253-446</citation>
+      <citation>Lent, H. &amp;  Wygodzinsky, P. 1979. Revision of the Triatominae (Hemiptera, Reduviidae), and their significance as vectors of Chagas´ disease. 163. New York. 520 pp.</citation>
+      <citation>Jeannel, R. 1919. Henicocephalidae et Reduviidae. In Voy-age de Ch. Alluaud et R. Jeannel en Afrique orientale (1911-1912). Resultats scientifiques- Hemiptera. 3. Paris. 131 - 314</citation>
+      <citation>Serville, A. &amp;  Amyot, C. J. B. 1843. Histoire naturelle des insectes. Hemipteres. Paris. xxvi + 675 + 5 pp. 1</citation>
+      <citation>Walker, F. 1873. Catalogue of the specimens of Hemiptera Heteroptera in the collection of the British Museum. Part 7. London. 213 pp.</citation>
+      <citation>Distant, W. L. 1904. The Fauna of British India, including Ceylon and Burma. Rhynchota. (Heteroptera). 2. 503 pp.</citation>
+      <citation>Banks, C. S. 1910. Catalogue of Nearctic Hemiptera-Heteroptera. Amer. Ent. Soc. 103 + viii</citation>
+      <citation>Pinto, C. 1926. Classificacao dos Triatomideos (Hemipteros-Heteropteros hematophagos). Sci. Med. Rio de Janeiro. 4:  485-490.</citation>
+      <citation>Laporte, F. L. 1832-1833. Essai d&apos;une classification systematique de l&apos;ordre des Hemipteres (Hemipteres, Heteropteres, Latr.). Magazine de Zoologie. 2: 1-88.</citation>
+      <citation>Da Costa-Lima, A. 1940. Insetos do Brasil, vol. 2 , Hemípteros. Serie didáctica no. 3. 2. Esc. Nac. Agron., Rio de Janeiro. 351 pp.</citation>
+      <citation>Stal, C. 1859. Monographie der Gattung Conorhinus und Verwandten. Berliner Ent. Zeitschr. 3. 97-117</citation>
+      <citation>Pinto, C. 1931. Valor do rostro e antenas na caracterizacaodos generos de Triatomideos. Hemiptera. Reduvidioidea. Bol. Biol. Sao Paulo. 19: 45-136.</citation>
+      <citation>Neiva, A. &amp;  Lent, H. 1940. Sobre un novo triatomideo chileno: Triatomaptera porteri. Nota previa. 54. pp. 265 - 267</citation>
+      <citation>Mazza, S., Gajardo-Tobar, R. &amp;  Jörg, M. E. 1940. Mepraia novum genus de Triatomidae. Mepraia spinolai (Porter) 1933, nov. comb., redescripción del macho y descripción de la hembra. Misión Estud. Patol. 3 - 30</citation>
+      <citation>Usinger, R. L. 1944. The Triatominae of North and Central America and the West Indies and their public health significance. Public Health Bull. (288). 83</citation>
+      <citation>Neiva, A. 1911. Contibuicao para o estudo dos hematophagos brasileiros e descripcao de una nova espécie de Triatoma. 25. pp. 461 - 462</citation>
+      <citation>Berg, C. 1879. Hemiptera Argentina. Ensayo de una monografía de los Hemípteros Heterópteros y Homópteros de la República Argentina. Anal. Soc. Cient. Arg. vol. 7-8.</citation>
+      <citation>Herrich-Shaeffer, G. A. W. 1848. Die Wanzenartigen Insecten. 8. Nurnberg. 130 pp.</citation>
+      <citation>Klug, F. 1834. In Reise um die Erde, in den Jahren 1830, 1831 und 1832 ausgefuhrt von F. J. F. Meyen. Teil 1. In: C.W. Eichoff. Berlin.</citation>
+      <citation>Spinola, M. 1852. Hemípteros. In Gay C., Historia física y política de Chile. 7. París. pp. 113-320</citation>
+      <citation>Abonnec, E., Chaberlard, R. &amp;  Senevet, G. 1942. Les moustiques de la Guyane. III.- Les sabethines (2). Arch. Inst. Pasteur Alger. 20: 336-348.</citation>
+      <citation>Dyar, H. G. 1923. Mosquito notes (Diptera, Cilicidae). Insec. Inscit. Menst. 11: 64-72.</citation>
+      <citation>Cerqueira, N. L. 1943. Algumas especies novas da Bolivia, e referencia a tres especies de Haemagogus. (Diptera, Culicidae). Mem. Inst. Osw. Cruz. 39. 1 - 14</citation>
+      <citation>Burmeister, H. 1861. Reise durch die La Plata-Staaten. 1. 502 pp.</citation>
+      <citation>Blanchard, R. 1890. Traité de Zoologie Médicale. 2. J.B. Bailliere &amp;  Fils. Paris. 883 pp.</citation>
+      <citation>Noe, J. &amp;  Silva, R. 1949. Una nueva variedad de Triatoma infestans Klug, 1834. Bol. Informaciones Parasitol. Chilenas. 4: 4-5.</citation>
+      <citation>Neiva, A. &amp;  Pinto, C. 1923. Dos Reduvideos hematophagos encotrados no Distrito Federal e Estado do Rio de Janeiro, com a descripcao de uma especie nova. Brasil-med. 37: 45-47.</citation>
+      <citation>Dios, R. L. &amp;  Zuccarini, J. A. 1926. Sobre la existencia de Triatoma oswaldoi Neiva y Pinto en la República de Argentina. Rev. Soc. Argentina Biol. 2: 179-180.</citation>
+      <citation>Jörg, M. E. 1937. Triatoma mazzae nova species, de Triatomidae (Hemiptera-Heterp. Reduvioidea), de Argentina. Misión Estud. Patol. Regional Argentina Publ. 37: 34-47.</citation>
+      <citation>Stal, C. 1868. Hemiptera Fabriciana. Pars I. Heteroptera. Svenska Vetensk. Akad. Handl. 7. 1-148</citation>
+      <citation>Stal, C. 1872. Enumeratio Hemipterorum. Pars 2. Svenska Vetensk. Akad. Handl. 10. 1-159</citation>
+      <citation>Neiva, A. 1911. Notas de entomologia médica. Tres novas especies de redúvidas norte-americanas. Brasil-med. 25. p. 441</citation>
+      <citation>Patton, W. S. &amp;  Cragg, F. W. 1913. A textbook of medical entomology. London. 764 pp.</citation>
+      <citation>Neiva, A. 1914. Revisao do genero Triatoma. Lap. Rio de Janeiro. 80 pp.</citation>
+      <citation>Burmeister, H. 1835. Handbuch der Entomologic. 2. Berlin. part. 1, iv + 400 + 4 pp.</citation>
+      <citation>Mazzoti, L. 1943. Triatoma phyllosoma usingeri, a new sub-species of Triatoma from México. Pan-Pacific Ent. 19. 81 - 85</citation>
+      <citation>Usinger, R. L. 1941. Notes and descriptions of neotropical Triatominae (Hemiptera, Reduviidae). Pan-Pacific Ent. 17. México. 49-57</citation>
+      <citation>Usinger, R. L. 1939. Descriptions of new Triatominae with a key to genera (Hemiptera, Reduviidae). Univ. California Publ. Ent. 7. 33-56</citation>
+      <citation>Uhler, P. R. 1894. Observations upon the Heteropterous Hemiptera of Lower California with descriptions of new species. Proc. California Acad. Sci. Serie 2. 4. 223-295</citation>
+      <citation>Neiva, A. 1912. Notas de entomologia médica e descripcao de duas novas espécies de Triatomas norte-americanas. Brasil-med. 26. 21 - 22</citation>
+      <citation>Champion, G. C. 1899. Biologia Centrali-Americana.Insecta Rhyncota. Hemiptera-Heteroptera. 2. London. xvi + 416 pp.,</citation>
+      <citation>Pinto, C. 1926. Eutriatoma tibiamaculata novo género e nova espécie, forma intermediaria entre Rhodnius e Triatoma. Sci. Med. Rio de Janeiro. 4: 133-136.</citation>
+      <citation>Lent, H. 1954. Comentários sobre o genero Rhodnius Stal com descripcao de uma nova espécie do Brasil (Hemiptera, Reduviidae). Revista Brasileira de Biologia. 14: 237-247.</citation>
+      <citation>Pinto, C. 1927. Classification de genres d´Hémipteres de la famille Triatomidae (Reduvidioidea). Bol. Biol. Sao Paulo. 8: 103-114.</citation>
+      <citation>Del Ponte, E. 1930. Catálogo descriptivo de los géneros Triatoma Lap., Rhodnius Stal, e Eratyrus Stal. Rev. Inst. Bact. Dep. Nac. Higiene, Buenos Aires, Argentina. 5: 855-937.</citation>
+      <citation>Ryckman, R. E. 1962. Biosystematics and hosts of the Triatoma protracta complex in North America. Univ. California Publ. Ent. 27. 93 - 239</citation>
+      <citation>Kirkaldy, G. W. 1904. Bibliographical and nomeclatorial notes on the Hemiptera. No. 3. Entomologist. 37: 279-283.</citation>
+      <citation>Campos, F. 1932. Una nueva especie del género Triatoma (Hemiptero Heteroptero de la familia Reduviidae, subfam. Acanthaspidinae). Revista del Colegio Nacional Vicente Rocafuerte, Guayaquil. 14: 3-6.</citation>
+      <citation>Dyar, H. G. 1924. Two new mosquitoes from California (Diptera, Culicidae). Insec. Inscit. Menst. 12: 125-127.</citation>
+      <citation>Barr, A. R. 1955. The resurrection of Aedes melanimon Dyar. Mosquito news. 15: 170-172.</citation>
+      <citation>Matheson, R. 1933. A new species of mosquito from Colorado (Diptera, Culicidae). Proc. Ent. Soc. Wash. 35: 69-71.</citation>
+      <citation>Carpenter, S. J. &amp;  LaCasse, W. J. 1955. Mosquitoes of North America (north of Mexico). 202. Univ. Calif. Press. vi + 369 pp.</citation>
+      <citation>Walker, F. 1873. Catalogue of the specimens of Hemiptera Heteroptera in the collection of the British Museum. Part 8. London. 220 pp.</citation>
+      <citation>Latreille, P. A. 1811. Insectes de l&apos;Amérique recueillis pendant le voyage de MM. de Humboldt et Bonpland. Voyage aux régions équinoxiales du Noveau Continente. Recueil d&apos;observations de Zoologie et d&apos;anatomie comparèe faites dans l&apos;Océan Atlantique dans l&apos;inérieur du nouveau continent et dans le mer du Sud. Paris.</citation>
+      <citation>Dyar, H. G. &amp;  Shannon, R. C. 1924. The American species of Uranotaenia (Diptera, Culicidae). Insec. Inscit. Menst. 12. 187 - 192</citation>
+      <citation>Howard, L. O., Dyar, H. G. &amp;  Knab, F. 1915. The mosquitoes of North and Central America and the West Indies. Systematic description, part I. 3(159). Carnegie Inst. Wash. Publ. Washington, DC. 523 pp</citation>
+      <citation>Kim, K. C., Pratt, H. D. &amp;  Stojanovich, C. J. 1986. The sucking lice of North America. An Ilustrated Manual for Identification. The Pennsylvania State University Press. University Park and London. pp 241</citation>
+      <citation>Leach, W. E. 1817. On the families, strips, and genera of the order Anoplura. The Zoological Miscellany. 3. 64 - 67</citation>
+      <citation>Ewing, H. E. 1929. A Manual of External Parasities. In: C.C. Thomas. Springfield. 225 pp.</citation>
+      <citation>Enderlein, G. 1904 -1906. Lausestudien. I - V. Zool. Anz. 28, 29.</citation>
+      <citation>Martini, E. 1935. Los mosquitos de Mexico. 1. Dept. Salub. Publ. Mexico, D. F. 65 pp.</citation>
+      <citation>Kim , K. C. &amp;  Ludwig, H. W. 1978. The family classificationof the Anoplura. Systematic Entomology. 3: 249-284.</citation>
+      <citation>Ludlow, C. S. 1906. A new American mosquito. Geo. Wash. Univ. Bull. 5: 83-84.</citation>
+      <citation>Thomson, C. G. 1868 (1869). Diptera. Species nova descripsit. Kongliga svenska fregatten Eugenies resa omkring Jorden, part 2, Zool. vol. 1. pp. 443-614. Stockholm.</citation>
+      <citation>Leach, W. E. 1815. Entomology. Brewster´s Edinburgh Encyclopaedia. 9. 57 - 172</citation>
+      <citation>Leach, W. E. 1815. Insecta. Encyclopaedia Britannica Supplement 1. 24. ND</citation>
+      <citation>Nitzsch, C. L. 1818. Die Familien und Gattungen der Thierinsekten (Insecta epizoica) als ein Prodomus der Naturgeschichte derselben. Magazin der Entomologie Germar. 3: 261-316.</citation>
+      <citation>Law, J. 1903. Textbook of Veterinary Medicine. 5. 13 pp.</citation>
+      <citation>Neumann, L. G. 1911. Notes sur les Pediculides. Arch. d. Parasitol. 14. Paris. 401 - 14</citation>
+      <citation>Fahrenholz, H. 1916. Diagnosen neuer Anopluren 3. Zool. Anz. 48. 87 - 93</citation>
+      <citation>Eichler, W. 1949. Phthirapterorum nova genera. Boll. Soc. Ent. Ital. 79. 11 - 13</citation>
+      <citation>von Olfers, J. F. M. 1816. De vegetativis et animatis corporibus animatis reperiundus commentarius. Berolini.</citation>
+      <citation>Fahrenholz, H. 1919. Zur Nomenklatur ehiger Anopluren-Arten. II. Jahresb. Neidersach. Zool. Vereins Hannover. (1913 - 1918) 5 -10. Hannover, Germany. 22 - 27</citation>
+      <citation>Burmeister, H. 1838 - 46. Genera quaedam Insectorum. Iconibus illustravit et descripsit. Rhynchota. 1.</citation>
+      <citation>Lucas, H. 1847. Notice sur une nouvelle espèce d´epizoïque appartenant au genre de Haematoinus et qui vit parasite sur I´antilope des Indes (Antilope cervicapra Pallas). Ann. Soc. Ent. Fr. 5: 531-540.</citation>
+      <citation>Osborn, H. 1891. The Pediculi and Mallophaga Affectining Man and Lower Animals. Bull U.S.D.A., Bur.</citation>
+      <citation>Mjöberg, E. G. 1910. Studien über Mallophagen und Anopluren. Arkiv för Zoologi (Stockholm). 6. 1-296</citation>
+      <citation>Fahrenholz, H. 1912. Beitrage zur Kenntnis derr Anopluren. Jahresb. Neidersach. Zool. Vereins Hannover. (1910 - 1912) 2 - 4. Hannover, Germany. 1 - 60</citation>
+      <citation>Ferris, G. F. 1942. Some North American rodent - infesting lice ( Insecta, Anoplura). Microentomology. 7. 84 - 90</citation>
+      <citation>Walker, F. 1858. Catalogue of the dipterous insects collected in the Aru Islands by Mr. A. R. Wallace, with descriptions of new species. J. Proc. Linn. Soc. Lond. Zool. 3. p. 77-131</citation>
+      <citation>Doleschall, C. L. 1858. Derdre bijdrage tot de kennis der dipteren fauna van Nederlandsch Indie. Natuurk. Tijdsschr. Ned.-Ind. 17: 73-128.</citation>
+      <citation>Walker, F. 1861. Catalogue of the dipterous insects collected at Dorey, New Guinea, by Mr. A. R. Wallace, with descriptions of new species. J. Proc. Linn. Soc. Lond. Zool. 5. p 229-254</citation>
+      <citation>Aitken, T. H. G. 1941. A new American subgenus and species of Aedes (Diptera;Culicidae). Pan-Pacific Ent. 17: 81-84.</citation>
+      <citation>Coquillett, D. W. 1904. Notes on Culex nigritunus. Ent. News. 15: 73-74.</citation>
+      <citation>Bobadilla, M. C. 2001. Estado de la suceptibilidad de poblaciones larvarias de Aedes aegypti (L) (Diptera: Culicidae) a insecticidas de uso común y alternativos en el estado de Veracruz. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pags. 19 - 22</citation>
+      <citation>Fernández, I. 1987. Biología de los Triatominos vectores de Trypanosoma cruzi en el norte de Nuevo León. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León.</citation>
+      <citation>Rodríguez, M. A. 1990. Estudios sobre la cría, comportamiento sexual y tablas de vida de Anopheles pseudopunctipennis (Theobald) y Anopheles punctipennis (Say) (Diptera: Culicideae) bajo condiciones de laboratorio. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León.San Nicolás de los Garza, N. L. Pags. 17 - 20</citation>
+      <citation>Quiroz, H. 1989. Impacto del Clavicornio de agua Tropisternus sp. (Coleoptera: Hidrophilidae) sobre larvas de Culex pipiens (Say) (Diptera: Culicidae). Tesis de Maestría Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L.</citation>
+      <citation>Lugo, E. 1991. Dinámica poblacional y patrón diario de alimento de Anopheles pseudopunctiennis (Theobaldi) (Diptera: Culicidae). Tesis de Licenciatura. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. p. 17</citation>
+      <citation>Ibarra, J. A. M. 1992. Indicadores entomológicos de los triatominos domiciliarios (Hemiptera: Reduviidae) y prevalencia de sueros reactivos a Trypanosoma cruzi en habitantes de 10 localidades del municipio de gral. Terán, N. L. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pags. 14 - 15</citation>
+      <citation>Flores, J. A. 1993. Respuesta funcional de Toxorynchites theobaldi (Dyar &amp;  Knab) sobre larvas de Aedes aegypti (Linneo) vector del dengue. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pags. 30 y 31</citation>
+      <citation>Rodríguez-Tovar, M. L. 1994. Diseño y evaluación de formulados de Bacillus thuringiensis var. israelensis en laboratorio y campo en Culex pipiens quinquefasciatus (Say) y Aedes aegypti (Linnaeus). Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pags. 47 - 51 y 65 - 71</citation>
+      <citation>Solís, R. R. 1994. Ecología larvaria de tres especies de Simulidae (Diptera: Nematocera) en una comunidad endémica de oncosercosis en el sur de México. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pags. 19-23</citation>
+      <citation>Solís-Santamaría, A. 1995. Binomía de seis especies de mosquitos (Diptera: Culicidae) Vectores potenciales de encefalitis en Salinas Victoria, Nuevo León, NE de México. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pags. 17-19</citation>
+      <citation>Galván, P. C. 1970. Efectos de algunos larvicidas a Culex quinquefasciatus (Say, 1833). Con datos adicionales de los culicidos de AMM, N. L. Biológo. Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pags. 16 - 20, 24 y 29 - 31</citation>
+      <citation>de la Garza, H. 1990. Efecto de concentraciones subletales de Abate sobre algunos parámetros biológicos de Aedes aegypti (Linn.) (Diptera: culicidae) de Monterrey, N. L. Tesis de Licenciatura. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. 57 pp.</citation>
+      <citation>Tavitas, J. R. 1990. Interacción entre Notonecta sp. (Hemiptera: Notonectidae) y Pantala sp. (Odonato: Libellulidae) sobre larvas de Culex pipiens L. (Diptera: Culicidae). Biológo. Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pag. 33</citation>
+      <citation>Juárez, M. 1990. Efecto de concentraciones subletales de Abate sobre fecundidad, longevidad y proporción sexual de Aedes aegypti (Linn.) (Diptera: Culicidae) de Sabinas Hidalgo, N. L. México. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pag. 22</citation>
+      <citation>García, C. F. 1990. Capacidad depredadora de Tropisternus sp. (Coleoptera: hydrophilidae) sobre larvas de Culex pipiens (Say) (Diptera: Culicidae)en condiciones de campo. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pags. 24 - 27</citation>
+      <citation>Gorrochotegi, N. 1995. Evaluación en campo del depredador Mesocyclops longisetus (Thiebaud) (Copepoda:Cyclopoidea) para el control larval del vector del Dengue Aedes aegypti (L.) en Monterrey, Nuevo León. Biológo. Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. Pags. 1 y 14</citation>
+      <citation>Gómez, E. P. 2002. Selección de sitios de oviposición de Aedes aegypti (Diptera: Culicidae) sobre diferentes formas de control, bajo condiciones de labortorio. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pags. 16 y 17</citation>
+      <citation>Ulloa, A. 1996. Abundancia larvaria y fuentes alimenticias de Aedes aegypti (L.) (Diptera: Culicidae) en algunois recipientes artificiales, en el sur de Chiapas, México. Tesis de Maestría. Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N. L. pp. 9-11</citation>
+      <citation>Orozco, A. 1997. Genética poblacional de Simulium ochraceum (Diptera: Simulidae) Walker 1981, en el sur de México. Tesis de Maestría. Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. pp. 9-10.</citation>
+      <citation>Ordoñez, J. G. 1997. Disperción de Aedes Aegypti (L.) mediante marcaje-liberación- recaptura y utilización de ovitrampas pegajosas en Guadalupe, N.L., México. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pags. 23 y 24</citation>
+      <citation>Bond-Compeán, J. G. 1999. Dinámica de criaderos larvarios de Anopheles pseudopunctipennis (Theobald) en el sur de Chiapas, México. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pags. 11 y 12</citation>
+      <citation>Orta, H. 1999. Evaluación del Abate líquido distribuido en camiones cisterna para el control larvario de Aedes aegypti (L.) en barriles peridomésticos. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pags. 16 - 18</citation>
+      <citation>Ponce-García, G. 1999. Efecto de concentraciones subletales de Bacillus thuringiensis israelensis H-14 Vectobac AS en parámetros biológicos de Aedes aegypti. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pag. 20</citation>
+      <citation>Pérez, J. L. 1999. Comparación de la eficiencia de rociados domiciliares en ultra bajo volúmen (ULV) y termonebulización para el control de poblaciones adultas del vector del Dengue Aedes aegypti (L.) En una colonia de Guadalupe N.L. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pags. 10 y 11</citation>
+      <citation>Valdéz, K. M. 2002. Evaluación de dietas y sus efectos en el desarrollo larval de Anopheles pseudopunctipennis (Theobald) (Diptera: Culicidae) en condiciones de laboratorio. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pags. 24-26</citation>
+      <citation>Rodríguez C., V. A. 2000. Control y efectos morfológicos de Culex quinquefasciatus (Say) (Diptera: Culicidae) en contenedores artificiales en el Campo Agrícola Experimetal del ITESM en Apodáca,N.L. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pags. 21 - 25</citation>
+      <citation>Rodríguez-Tovar, M. L. 2000. Dinámica poblacional de Aedes aegypti (L.) en el Aréa Metropolitana de Monterrey. Demografía de la metapoblación y estructura horizontal de Aedes aegypti (L.) en el Aréa Metropolitana de Monterrey. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pags. 20 y 22</citation>
+      <citation>Rodríguez-Tovar, M. L. 2000. Estimación de la duración del ciclo gonotrófico, sobrevivencia y tamaño de la población de Aedes aegypti. Demografía de la metapoblación y estructura horizontal de Aedes aegypti (L.) en el Aréa Metropolitana de Monterrey. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pags. 87 y 88</citation>
+      <citation>Lozoya, F. J. 2004. Implementación de la prueba de ELISA para la identificación de las alimentaciones sanguíneas en Aedes albopictus. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pag. 22</citation>
+      <citation>Casas, M. 2004. Análisis de la estructura genética de las poblaciones de Anopheles pseudopunctipennis (Theobald) de la zona identificada como de convergencia poblacional entre México y América Central. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. Pag. 17 - 20</citation>
+      <citation>Ulloa, A. 2001. Ciclo gonotrófico, selección y fidelidad a hospederos y compatibilidad reproductiva de dos poblaciones de Anopheles vestitipennis en Chiapas, México. Biológo. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. Monterrey, N.L. 171 pp.</citation>
+      <citation>Elizondo-Quiroga, A. E. 2005. Patrones de alimentación de hospederos de Culex quinquefasciatus en Guadalupe y Escobedo N.L. Binomía de Culex pipiens quinquefasciatus (Say, 1823) y detección del virus del Oeste del Nilo (VON) en los mosquitos (Diptera: Culicidae) en los municipios del Área Metropolitana de Monterrey, Nuevo León, México. San Nicolás de los Garza, N.L. Pags. 35 - 38</citation>
+      <citation>Elizondo-Quiroga, A. E. 2005. Estimación de la duración del Ciclo Gonotrófico y Sobrevivencia diaria de Culex quinquefasciatus en el norte de México. Binomía de Culex pipiens quinquefasciatus (Say, 1823) y detección del virus del Oeste del Nilo (VON) en los mosquitos (Diptera: Culicidae) en los municipios del Área Metropolitana de Monterrey, Nuevo León, México. San Nicolás de los Garza, N.L. Pag. 75</citation>
+      <citation>Kellogg, V. L. &amp;  Ferris, G. F. 1915. Anoplura and Mallophaga of North American Mammals. Leland Stanford Junior Univ. Publication. 1 - 74 pp.</citation>
+      <citation>Johnson, P. T. 1962. The species of Fahrenholzia Kellogg and Ferris from spiny pocket mice (Anoplura: Hoplopleuridae). Ann. Ent. Soc. Am. 55(4): 415-428.</citation>
+      <citation>Ferris, G. F. 1916. Notes on Anoplura and Mallophaga from mammals, with descriptions of four new species and a new variety of Anoplura. Psyche. 23. 97 - 120</citation>
+      <citation>Cresson, E. T. 1869. A list of the North American species of the genus Anthophora, with descriptions of new species. Transactions of the American Entomological Society. 2: 292.</citation>
+      <citation>Serville, A. 1839. Histoire Naturelle Des Insectes. Orthoptères. Paris. 776 pp.</citation>
+      <citation>Say, T. 1821. An account of the Arachnides of the United States. J. Acad. Nat. Sci. Philad. 2. Na. Philadelphia.</citation>
+      <citation>Canestrini, G. 1887. Intorno ad alcuni Acari ed Opilionidi dell&apos; America. Atti Soc Veneto-Trentina Sci. Nat. 11: 100-111.</citation>
+      <citation>Csokor, J. 1879. Ueber Haarsackmilben und eine neue Varietät derselben bei Schweinen, Demodex phylloides. Verhandlungen des Zoologisch-Botanischen Vereins in Wien. 29: 419-450.</citation>
+      <citation>Trouessart, E. L. 1897. Sur la classification des Sarcoptides plumicoles [Acar.]. Bull. Soc. Ent. Fr. 1. 419-422</citation>
+      <citation>Denny, H. 1842. Monographia Anoplurorum Britanniae. In: Henry G. Bohn. 56, 153. London. xxiv 262 pp.</citation>
+      <citation>Taschenberg, O. 1879. Über die Synonymie von Goniocotes hologaster. Z.  Naturwiss. 52. 104-107</citation>
+      <citation>DeGeer, C. B. 1778. Mémoires pour servir à l&apos;histoires des insectes. 7:81. Stockholm : Hesselberg. 69-82</citation>
+      <citation>Bouché, P. F. 1835. Beiträge zur Insectenkunde. Nova Acta Acad. Caesar Leop. Carol. 17: 493-508.</citation>
+      <citation>Gervais, F. L. P. 1844. Histoire Naturelle des Insectes. Aptères. Walckenaer. 3. Paris. pp. 260-266</citation>
+      <citation>Baker, C. F. 1904. A revision of American Siphonaptera, or fleas, together with a complete (sic) list and bibliography of the group. Proceedings of the United States National Museum. 27: 365-469.</citation>
+      <citation>Koch, C. L. 1844. Systematische Übersicht über die Ordnung der Zecken. Arch. Naturg. 10: 217-239.</citation>
+      <citation>Neumann, L. G. 1899. Revision de la famille des Ixodidés. Mem. Soc. Zool.  Fr. 12. Francia. 107-294</citation>
+      <citation>Latreille, P. A. 1795. Observations sur la variété des organes de la bouche des Tiques, et distribution méthodique des insectes de cette famille d&apos;après les caractères établis sur la conformation de ces organes. Rev. Encycl. 4. 15-20</citation>
+      <citation>Latreille, P. A. 1802. Histoire Naturelle des Fourmis et Recueil de Mémoires et d&apos;Observations sur les Abeilles, les Areignées, les Faucheurs et autres Insectes. Paris. 445 pp.</citation>
+      <citation>Curtis, C. 1891. The biology of the cattle tick. J. Comp. Med. Vet. Arch. 12: 313-319.</citation>
+      <citation>Mayr, G. L. 1861. Die europëischen Formiciden. (Ameisen.) Nach der analytischen Methode bearbeitet. In: Carl Gerolds Sohn. Vienna. 80 pp.</citation>
+      <citation>Meigen, J. W. 1803. Versuch einer neuen Gattungs Eintheilung der europäischen zweiflügligen Insekten. Mag. Insektenkd. 2. 259-281</citation>
+      <citation>Stiles, C. W. &amp;  Collins, B. J. 1930. Ctenocephalides, new genus of fleas, type Pulex canis. U.S. Public Health Service. 45. 1308-1310</citation>
+      <citation>Latreille, P. A. 1802. Histoire Naturelle, Générale et Particulière des Crustacés et des Insectes. In: F. Dufart. 3. Paris. xii 13+467 pp.</citation>
+      <citation>Jurine, L. 1807. Nouvelle Méthode de Classer les Hyménoptères et les Diptères. Hyménoptères. 1:132. 319+4 pp</citation>
+      <citation>Banks, N. 1912. New American mites. Proceedings of the Entomological Society of Washington. 14: 96-99.</citation>
+      <citation>Thomson, C. G. 1869. Opuscula entomologica. [Systematisch faunistische Angaben über skandinavische Insekten]. 1. 82 pp. [79]</citation>
+      <citation>Burmeister, H. 1838. Mallophaga, Handbuch der Entomologie. Berlin : Enslin. 418 - 443</citation>
+      <citation>Bosc, L. A. G. 1800. Description d&apos;une nouvelle espèce de puce (Pulex fasciatus). Bull. Sci. Soc. Philomath. 2(44): 156.</citation>
+      <citation>Johnson, C. W. 1903. Diptera of Beulah, New Mexico. Transactions of the American Entomological Society. 29. 101</citation>
+      <citation>de Motschoulsky, V. 1863. Essai d&apos;un catalogue des insectes de l&apos;ile Ceylan. Bull. Soc. Imp. 36(3): 1-153.</citation>
+      <citation>Mayr, G. L. 1868. Formicidae novae americanae collectae a Prof. P. de Strobel. Ann. Soc. Nat. 3: 161-178.</citation>
+      <citation>Westwood, J. O. 1840. Observations on the genus Typhlopone, with descriptions of several exotic species of ants. Ann. Mag. Nat. Hist. 6. 81-86</citation>
+      <citation>Mayr, G. L. 1855. Formicina austriaca. Beschreibung der bisher im oesterreichischen Kaiserstaate aufgefundenen Ameisen nebst Hinzufuegung jener in Deutschland, in der Schweiz und in Italien vorkommenden Ameisen. Verhandlungen des Zoologisch-Botanischen Vereins in Wien. 5: 273-478.</citation>
+      <citation>Forel, A. 1893. Note sur les &apos;Attini&apos;. Ann. Soc. Entomol. Belgique. 37. 586-607</citation>
+      <citation>Wheleer, W. M. 1911. A list of the type species of the genera and subgenera of Formicidae. Annals of the New York Academy of Sciences. 21. 157-175</citation>
+      <citation>Linnaeus, C. 1758. Systema Naturae. Regnum Animale. Lipsiae.</citation>
+      <citation>Fabricius, J. C. 1804. Systema Piezatorum. Carolum Reichard, Brunsviga. 439 pp.</citation>
+      <citation>Skuse, F. A. A. 1895. The banded mosquito of Bengal. Indian Mus. Notes. 3. 20</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1906. The species of mosquitoes in the genus Megarhinus. Smithson. Misc. Coll. 48. 241 - 258</citation>
+      <citation>Oken, L. 1818. Sogenannte giftige Wanze in Persien. Isis. (9): 1567-1570.</citation>
+      <citation>Curtis, J. 1826. Pulex talpae-mole&apos;s flea. British Entomology; being illustrations and descriptions of the genera of insects found in Great Britain and Ireland. 3. London. Folio 114</citation>
+      <citation>Malloch, J. R. 1918. Diptera from the South-western United States IV. Anthomyiidae. Transactions of the American Entomological Society. 44: 292.</citation>
+      <citation>Emery, C. 1894. Studi sulle formiche della fauna Neotropica. Boll. Soc. Ent. Ital. 26. 137-241</citation>
+      <citation>Latreille, P. A. 1804. Tableau méthodique des insectes. Classe huitième. Insectes, Insecta. Nouveau Dictionnaire d&apos;Histoire Naturelle. 24: 129-200.</citation>
+      <citation>Shelford, R. W. C. 1911. Preliminary diagnoses of some new genera of Blattidae. Entomol. Mon. Mag. 2. 154-156 [155]</citation>
+      <citation>Olivier, A. G. 1789. Insectes. Encyclopedie Methodique. Histoire Naturelle 4. Paris. 314</citation>
+      <citation>Neumann, L. G. 1912. Notes sur les Mallophages. II. 1. Sur le genre Menopon. 2. Espèces nouvelles. Arch. d. Parasitol. 15. Paris. 353-384 [354]</citation>
+      <citation>Gervais, F. L. P. 1841. Note sur quelques espèces de l&apos;ordre des Acariens. Ann. Sci. Nat. 15. 5-10</citation>
+      <citation>Hirst, S. 1913. On three new species of Gamasid mites found on rats. Bull. Ent. Res. 4. 119-124</citation>
+      <citation>Fanzago, F. &amp;  G. Canestrini. 1877. Intorno agli Acari Italiani. Atti R. Ist. Veneto di Sci. Lett. Arti. 4. 69-208</citation>
+      <citation>Dugès, A. 1884. Turicata y garrapata de Guanajuato. Naturaleza. 6: 195-198.</citation>
+      <citation>Latreille, P. A. 1809. Genera crustaceorum et insectorum secundum ordinem naturalem in familias disposita, iconibus exemplisque plurimus explicata. In: A. Koenig. 4. Paris &amp;  Strasbourg. 399 pp. [251]</citation>
+      <citation>Cuesy, M. 2005. Caracterización bioquímica de resistencia a permetrina en poblaciones adultas de Aedes aegypti en cinco municipios del estado Quintana Roo. Tesis de Licenciatura. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. Monterrey, N. L. México.37 pags. 13 y 14</citation>
+      <citation>Briseño, C. 1996. Estudio sobre el desarrollo pre-grávido en poblaciones urbanas de Aedes aegypti (L.) en Monterrey, México. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. Monterrey, N.L. Pag. 16 y 17.</citation>
+      <citation>Domínguez, M. A. 2003. Evaluación del piretroide Bifentrina, sobre cambios conductuales de Anopheles albimanus (Wiedeman) (Diptera: Culicidae) mediante el rociado intradomiciliario en el sur del Estado de Quintana Roo, México. 1 y 41. Tesis de Maestría. Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León. San Nicolás de los Garza, N.L. 61 pp.</citation>
+      <citation>Díaz-Nájera, A. 1966. Aedes de México. Descripción de una nueva especie del subgénero Howardina (Diptera: Culícidae). Revta. Inst. Salubr. Enferm. Trop., Mex. 26: 331-344.</citation>
+      <citation>Komp, W. H. W. 1936. The male and larva of Aedes dominicii Rangel &amp;  Romero-Sierra, and the male of Aedes pseudodominicii sp. nov., reppresentatives of a new subgenus (Soperia) of the genus Aedes, from Colombia. Proc. Ent. Soc. Wash. 38: 71-75.</citation>
+      <citation>Dyar, H. G. 1922. Notes on tropical American mosquitoes (Diptera, Culicidae). Insec. Inscit. Menst. 10: 188-196.</citation>
+      <citation>Coquillett, D. W. 1905 (1906). New Culicidae from West Indies and Central America. Proc. Ent. Soc. Wash. 7: 182-186.</citation>
+      <citation>Neveu-Lemaire, M. 1902. Description de quelques moustiques de la Guyane. Arch. Parasit. 6: 5-25.</citation>
+      <citation>Curry, D. P. 1931. Anopheles (Anopheles) neomaculipalpus. A new species of the Arribalzagaia group of Anopheles from Panama. Am. J. Hyg. 643-647.</citation>
+      <citation>Dyar, H. G. &amp;  Shannon, R. C. 1924. New Culex from Panama (Diptera, Culicidae). Insec. Inscit. Menst. 12. 46-48</citation>
+      <citation>Dyar, H. G. 1925. Some new mosquitoes from Colombia - III. Insec. Inscit. Menst. 13: 21.</citation>
+      <citation>Dyar, H. G. &amp;  Nuñez-Tovar, M. 1926 (1927). Notes on biting flies from Venezuela (Diptera, Culicidae, Psychodidae). Insec. Inscit. Menst. 14. 152-155, 190</citation>
+      <citation>Correa, R. R. 1959. Descricao de uma nova especie de Culex (Diptera, Culicidae). Revta. Bras. Malar. Doencas Trop. 11: 55-57.</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1906. Notes on some American mosquitoes with descriptions of new species. Proc. Biol. Soc. Wash. 19. 159-172</citation>
+      <citation>Dyar, H. G. &amp;  Knab, F. 1909. Description of a new mosquito from Cuba. (Diptera, Culicidae). Proc. Ent. Soc. Wash. 11. 39</citation>
+      <citation>Dyar, H. G. 1924. Some new mosquitoes from Colombia - II. Insec. Inscit. Menst. 12: 183-186.</citation>
+      <citation>Senevet, G. &amp;  Abonnenc, E. 1939. Les moustiques de la Guyane. II.- Le Genre Culex. Arch. Inst. Pasteur Alger. 17. 62-134</citation>
+      <citation>Levi-Castillo, R. 1951. Los mosquitos del género Haemagogus, Williston, 1896 en America del Sur. 77 pp. Cuenca, Ecuador</citation>
+      <citation>Lane, J. &amp;  Cerqueira, N. L. 1942. Os sabetineos da America (Diptera, Culicidae). Arch. Zool. S. Paulo. 3: 473-849.</citation>
+      <citation>Goeldi, E. A. 1905. Os mosquitos no Pará. Reunião de quatro trabalhos sobre os mosquitos indigenas principalmente as especies que molestam o homem. Mem. Mus. Goeldi, Hist. Nat. Ethn. ND. 4. 1-154</citation>
+      <citation>Dyar, H. G. 1921. Ilustrations of certain mosquitoes (Diptera, Culicidae). Insec. Inscit. Menst. 9: 114-118.</citation>
+              </bibliography>
+              <physical>
+                  <objectName>SNIB-CC008-CSV.zip</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>CSV</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://www.snib.mx/proyectos/CC008/SNIB-CC008-CSV.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <physical>
+                  <objectName>SNIB-CC008-BD.zip</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>MDB</formatName>
+                            <formatVersion>MicrosoftAccess2007</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://www.snib.mx/proyectos/CC008/SNIB-CC008-BD.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-CC008-CC0081103F_corregida-ND</collectionIdentifier>
+                <collectionName>Colección de Insectos y ácaros de Importancia medica;IAIM;Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León;FCB-UANL</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>NO APLICA</parentCollectionIdentifier>
+                <collectionIdentifier>SNIB-CC008-CC0081103F_corregida-ND</collectionIdentifier>
+                <collectionName>NO DISPONIBLE</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Ejemplar</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>1</beginRange>
+                          <endRange>614</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

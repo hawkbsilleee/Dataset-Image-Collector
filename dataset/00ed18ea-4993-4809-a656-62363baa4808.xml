@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="00ed18ea-4993-4809-a656-62363baa4808"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/khwbzb</alternateIdentifier>
+        <alternateIdentifier>00ed18ea-4993-4809-a656-62363baa4808</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nature.ca/resource?r=cmn_parasite</alternateIdentifier>
+    <title>Canadian Museum of Nature Parasite Collection</title>
+    <creator>
+    <individualName>
+<givenName>Jean-Marc</givenName>          <surName>Gagnon</surName>
+    </individualName>
+<organizationName>Canadian Museum of Nature</organizationName><positionName>Curator, Invertebrate Zoology Collections</positionName>    <address>
+<city>Ottawa</city><administrativeArea>Ontario</administrativeArea><country>CANADA</country>    </address>
+<phone>1-613-364-4066</phone><electronicMailAddress>jmgagnon@nature.ca</electronicMailAddress><onlineUrl>https://nature.ca/en/research-collections/science-experts/jean-marc-gagnon</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-2778-4215</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>David</givenName>          <surName>Shorthouse</surName>
+    </individualName>
+<positionName>Assistant Collections Information Manager</positionName><electronicMailAddress>dshorthouse@nature.ca</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-2778-4215</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Jean-Marc</givenName>          <surName>Gagnon</surName>
+    </individualName>
+<organizationName>Canadian Museum of Nature</organizationName><positionName>Curator, Invertebrate Zoology Collections</positionName>    <address>
+<city>Ottawa</city><administrativeArea>Ontario</administrativeArea><country>CANADA</country>    </address>
+<phone>1-613-364-4066</phone><electronicMailAddress>jmgagnon@nature.ca</electronicMailAddress><onlineUrl>https://nature.ca/en/research-collections/science-experts/jean-marc-gagnon</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-2778-4215</userId>
+    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-03-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Canadian Museum of Nature&amp;#39;s Parasite Collection, which holds approximately 50,000 lots, contains large numbers of specimens from the Canadian Wildlife Service, Institute of Parasitology (McGill University) and the former Arctic Biological Station (Fisheries and Oceans Canada).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Arctic Biological Station (Fisheries and Oceans Canada).</keyword>
+              <keyword>Canadian Wildlife Service</keyword>
+              <keyword>Institute of Parasitology Collections</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://nature.ca/en/research-collections/collections</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Freshwater, Terrestrial and Marine Hosts.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Jean-Marc</givenName>          <surName>Gagnon</surName>
+    </individualName>
+<organizationName>Canadian Museum of Nature</organizationName><positionName>Curator, Invertebrate Zoology Collections</positionName>    <address>
+<city>Ottawa</city><administrativeArea>Ontario</administrativeArea><country>CANADA</country>    </address>
+<phone>1-613-364-4066</phone><electronicMailAddress>jmgagnon@nature.ca</electronicMailAddress><onlineUrl>https://nature.ca/en/research-collections/science-experts/jean-marc-gagnon</onlineUrl>      <userId directory="http://orcid.org/">0000-0003-2778-4215</userId>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-16T05:24:16Z</dateStamp>
+      <citation>Gagnon J, Shorthouse D (2019). Canadian Museum of Nature Parasite Collection. Version 1.16. Canadian Museum of Nature. Occurrence dataset https://doi.org/10.15468/khwbzb accessed via GBIF.org on 2020-07-16.</citation>
+              <resourceLogoUrl>http://ipt.nature.ca/logo.do?r=cmn_parasite</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

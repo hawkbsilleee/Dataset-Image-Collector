@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="13fdfab7-e281-428d-8c1f-e72eb7398e97"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ga4bmd</alternateIdentifier>
+        <alternateIdentifier>https://biokic2.rc.asu.edu:443/portal/collections/misc/collprofiles.php?collid=7</alternateIdentifier>
+        <alternateIdentifier>https://scan-bugs.org:443/portal/collections/misc/collprofiles.php?collid=7</alternateIdentifier>
+    <title>Texas Tech University - Invertebrate Zoology</title>
+    <creator>
+<organizationName>SCAN</organizationName><electronicMailAddress>Neil.Cobb@nau.edu</electronicMailAddress><onlineUrl>https://scan-bugs.org:443/portal/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>SCAN</organizationName><electronicMailAddress>Neil.Cobb@nau.edu</electronicMailAddress><onlineUrl>https://scan-bugs.org:443/portal/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Texas Tech University - Invertebrate Zoology</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>3301 4th Street</deliveryPoint><city>Lubbock</city><administrativeArea>Texas</administrativeArea><postalCode>79415</postalCode><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>jennifer.giron@ttu.edu</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2020-07-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Invertebrate Zoology collection (TTU-Z) of the Museum of Texas Tech University is international in scope with an emphasis on arthropods from semi-arid and arid lands, especially from North America. The collection consists primarily of insects, arachnids, and crustaceans. The pinned collection contains over 3,200 genera and 7,500 identified species. These counts are underestimated because they were made over a decade ago and the majority of the collection holdings have not been identified nor cataloged. The estimated minimal numbers are: Pinned Insects about 1 million individuals, Med/Vet Zoology about 75,000, Arachnids under 50,000, Miscellaneous groups under 1,000. At least 3 million specimens are retained as sealed, bulk specimens. These samples are mostly cataloged and are being split and labeled as time permits (motivated by researchers&amp;#39; needs). There are currently slightly more than 800 type specimens (mostly paratypes) in the collection.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>Texas Tech University - Invertebrate Zoology</organizationName><electronicMailAddress>jennifer.giron@ttu.edu</electronicMailAddress><onlineUrl>http://www.depts.ttu.edu/nsrl/collections/invertebrate.php</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-16T05:24:16Z</dateStamp>
+      <citation>Museum of Texas Tech University (TTU) (2020). Texas Tech University - Invertebrate Zoology. Occurrence dataset https://doi.org/10.15468/ga4bmd accessed via GBIF.org on 2020-07-16.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

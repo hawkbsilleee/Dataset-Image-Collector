@@ -1,0 +1,49 @@
+
+Dataset: Invertebrate Zoology Division, Yale Peabody Museum
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Chelicerata and Myriapoda
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Denver Museum of Nature & Science - Arachnology
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Canadian Museum of Nature Parasite Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: IZIKO South Africa Museum Collection (1800-2013)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UAM Insect Collection (Arctos)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Harold W. Manter Laboratory of Parasitology Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CNAC/Coleccion Nacional de Acaros
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: University of Alberta E. H. Strickland Entomological Museum (UASM)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Texas Tech University - Invertebrate Zoology
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CAS Entomology (ENT)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Recent Invertebrates Specimens
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museum of Comparative Zoology, Harvard University
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fiocruz/CAVAISC - Coleção de Artrópodes Vetores Ápteros de Importância em Saúde das Comunidades
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Computarización de la Colección de insectos y ácaros de importancia médica de la Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Essig Museum of Entomology
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Brigham Young University Arthropod Museum
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Geographically tagged INSDC sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Delaware Insect Research Collection
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Illinois Natural History Survey Insect Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ohio State Acarology Laboratory (OSAL), Ohio State University
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BugGuide - Identification, Images, & Information For Insects, Spiders & Their Kin For the United States & Canada
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode

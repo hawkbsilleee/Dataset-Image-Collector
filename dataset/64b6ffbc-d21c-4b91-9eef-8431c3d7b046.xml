@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="64b6ffbc-d21c-4b91-9eef-8431c3d7b046"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/vrioeo</alternateIdentifier>
+        <alternateIdentifier>http://ipt.fiocruz.br/ipt/resource?r=fiocruz_cavaisc</alternateIdentifier>
+        <alternateIdentifier>64b6ffbc-d21c-4b91-9eef-8431c3d7b046</alternateIdentifier>
+    <title>Fiocruz/CAVAISC - Coleção de Artrópodes Vetores Ápteros de Importância em Saúde das Comunidades</title>
+    <creator>
+    <individualName>
+<givenName>Aline</givenName>          <surName>da Silva Soares Souto</surName>
+    </individualName>
+<organizationName>Vice-Presidency of Research and Biological Collections (VPPCB/Fiocruz)</organizationName><positionName>Biological Collections Coordination</positionName>    <address>
+<deliveryPoint>Av. Brasil, 4365 - Maguinhos, Castelo Mourisco, sala 109</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>Rio de Janeiro</administrativeArea><postalCode>21040900</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 3885-1063</phone><electronicMailAddress>aline.souto@fiocruz.br</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Marinete</givenName>          <surName>Amorim</surName>
+    </individualName>
+<organizationName>FIOCRUZ</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Pavilhão Lauro Travassos (Anexo posterior, sala 8) - Av. Brasil, 4365, Manguinhos</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>Rio de Janeiro</administrativeArea><postalCode>21040-900</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 2562-1340/1448</phone><electronicMailAddress>cavaisc@fiocruz.br</electronicMailAddress><onlineUrl>http://cavaisc.fiocruz.br/</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Alessandro</givenName>          <surName>Giupponi</surName>
+    </individualName>
+<organizationName>FIOCRUZ</organizationName><positionName>Curador adjunto</positionName>    <address>
+<deliveryPoint>Pavilhão Lauro Travassos (Anexo posterior, sala 10) - Av. Brasil, 4365, Manguinhos</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>Rio de Janeiro</administrativeArea><postalCode>21040-900</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 2562-1448</phone><electronicMailAddress>alessandro.giupponi@ioc.fiocruz.br</electronicMailAddress><onlineUrl>http://cavaisc.fiocruz.br/</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com.br/citations?user=1OjLi-wAAAAJ&amp;hl=pt-BR</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Caroline</givenName>          <surName>Perez Ghirardelli</surName>
+    </individualName>
+<electronicMailAddress>caro@fiocruz.br</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2020-05-14
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>A Coleção de Artrópodes Vetores Ápteros de Importância em Saúde das Comunidades (CAVAISC) é composta por carrapatos, ácaros, pulgas e piolhos, vetores envolvidos na transmissão de bioagentes das riquetsioses. Foi criada em 1992 e reconhecida institucionalmente pela Fiocruz em 2008. O reconhecimento foi formalizado pela portaria 526/2011-PR em 29/08/2011. A Coleção está sob a responsabilidade do Laboratório de Referência Nacional em Vetores das Riquetsioses, auditado e habilitado para constituir as Redes Nacionais e Regionais de Laboratórios de Vigilância Epidemiológica e em Saúde Ambiental, conforme a portaria no 97, de 23 de Outubro de 2008 pela Secretária de Vigilância em Saúde e também pela Secretaria Estadual de Saúde do Rio de Janeiro (desde 2005) como Referência Estadual em Acari através da publicação da resolução SES nº 2783.
+CAVAISC reúne aproximadamente 28.017 espécimes em um acervo dividido em duas seções: aberta [Ixodológica - IXO (carrapatos), Acarológica - ACA (ácaros), Siphonaptera - SIPHO (pulgas) e Phthiraptera - PHIT (piolhos)] e fechada, que inclui o acervo histórico Henrique Aragão - HIS (carrapatos) datado de 1909. A CAVAISC é uma das mais antigas e tradicionais coleções de carrapatos do Brasil, e está desenvolvendo projetos para informatização, digitalização, conservação, levantamento e catalogação dos espécimes tanto do acervo histórico (Henrique Aragão) quanto dos acervos abertos. Os dados associados aos espécimes da coleção são de qualidade assegurada e estão informatizados e organizados de tal forma que permitem a interação rápida e segura entre pesquisadores, intra e interinstituições, favorecendo o intercâmbio com Centros de Pesquisas e outras Instituições de ensino. Seu catálogo eletrônico está disponível via página web da coleção, pelo qual é possível acessar os dados de cada espécie como: nome científico, procedência, nome científico do hospedeiro, nome do coletor e do identificador, data de coleta e número de espécimes. A ampliação da Coleção se dá por coletas realizadas pela equipe, por colaboradores e pelo recebimento de material para depósito, conforme critérios institucionais.
+A CAVAISC Realiza diversos serviços tais como: intercâmbio, fornecimento, depósito, manutenção, preservação, caracterização taxonômica dos vetores ápteros e gêneros correlatos, além de oferecer treinamento. Todos esses serviços são realizados por equipe qualificada do próprio laboratório.
+
+O Sistema de Gestão da Qualidade está implementado na CAVAISC, de acordo com as normas ABNT NBR ISO/IEC 17025:2005 (Requisitos gerais para competência de laboratórios de ensaio e calibração). A prática da Gestão da Qualidade está presente na Coleção, incluindo o controle documental e a elaboração e registro de procedimentos gerenciais, técnicos específicos, assim como de utilização de equipamentos. A Coleção possui Manual da Qualidade e de Biossegurança.
+
+Características do acervo
+
+A CAVAISC está localizada no Laboratório de Referência Nacional em Vetores das Riquetsioses situado no anexo posterior ao Pavilhão Lauro Travassos, sala 10, 2º andar.
+
+O acervo contempla espécies da fauna brasileira e exótica, incluindo diversos holótipos e parátipos, e possui espécimes de inúmeras localidades do Brasil e outros países. Possui mais de 5.846 lotes com aproximadamente 28.017 espécimes, que estão preservados em meio líquido, seco em alfinetes entomológicos e preparados de forma permanente entre lâminas e lamínulas. Estão acondicionados em armários de madeira. As informações sobre os exemplares estão registradas em fichas de papel, arquivadas em armários de aço. Desde 1992 estas informações têm sido digitadas, atualizadas e corrigidas regularmente. Parte destes dados estão “on-line” desde novembro de 2012, por meio da rede speciesLink.
+Para maiores informações acesse a página web da CAVAISC/ For more information please visit the CAVAISC website: http://cavaisc.fiocruz.br/</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Neotropical</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-85.94</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-31.48</eastBoundingCoordinate>
+                      <northBoundingCoordinate>12.07</northBoundingCoordinate>
+                      <southBoundingCoordinate>-56.29</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marinete</givenName>          <surName>Amorim</surName>
+    </individualName>
+<organizationName>Fiocruz</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Pavilhão Lauro Travassos (Anexo posterior, sala 8) - Av. Brasil, 4365, Manguinhos</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>Rio de Janeiro</administrativeArea><postalCode>21040-900</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 2562-1340/1448</phone><electronicMailAddress>cavaisc@fiocruz.br</electronicMailAddress><onlineUrl>http://cavaisc.fiocruz.br/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Alessandro</givenName>          <surName>Giupponi</surName>
+    </individualName>
+<organizationName>Fiocruz</organizationName><positionName>Curador adjunto</positionName>    <address>
+<deliveryPoint>Pavilhão Lauro Travassos (Anexo posterior, sala 10) - Av. Brasil, 4365, Manguinhos</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>Rio de Janeiro</administrativeArea><postalCode>21040-900</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 2562-1448</phone><electronicMailAddress>alessandro.giupponi@ioc.fiocruz.br</electronicMailAddress><onlineUrl>http://cavaisc.fiocruz.br/</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com.br/citations?user=1OjLi-wAAAAJ&amp;hl=pt-BR</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Paula</givenName>          <surName>Silva</surName>
+    </individualName>
+<organizationName>FIOCRUZ</organizationName><positionName>Técnica</positionName>    <address>
+<deliveryPoint>Pavilhão Lauro Travassos (Anexo posterior, sala 10) - Av. Brasil, 4365, Manguinhos</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>Rio de Janeiro</administrativeArea><postalCode>21040-900</postalCode>    </address>
+<phone>55 21 2562-1448</phone><electronicMailAddress>pjsilva@ioc.fiocruz.br</electronicMailAddress><onlineUrl>http://cavaisc.fiocruz.br/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Liege</givenName>          <surName>Siqueira</surName>
+    </individualName>
+<organizationName>FIOCRUZ</organizationName><positionName>Bolsista</positionName>    <address>
+<deliveryPoint>Pavilhão Lauro Travassos (Anexo posterior, sala 10) - Av. Brasil, 4365, Manguinhos</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>Rio de Janeiro</administrativeArea><postalCode>21040-900</postalCode>    </address>
+<phone>55 21 2562-1448</phone><electronicMailAddress>liege@ioc.fiocruz.br</electronicMailAddress><onlineUrl>http://cavaisc.fiocruz.br/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Ana Beatriz</givenName>          <surName>de Gois</surName>
+    </individualName>
+<organizationName>FIOCRUZ</organizationName><positionName>Bolsista</positionName>    <address>
+<deliveryPoint>Pavilhão Lauro Travassos (Anexo posterior, sala 10) - Av. Brasil, 4365, Manguinhos</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>Rio de Janeiro</administrativeArea><postalCode>21040-900</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 2562-1448</phone><electronicMailAddress>ana.degois@ioc.fiocruz.br</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-16T05:24:17Z</dateStamp>
+      <citation>da Silva Soares Souto A, Amorim M, Giupponi A (2020). Fiocruz/CAVAISC - Coleção de Artrópodes Vetores Ápteros de Importância em Saúde das Comunidades. Version 1.42. FIOCRUZ - Oswaldo Cruz Foundation. Occurrence dataset https://doi.org/10.15468/vrioeo accessed via GBIF.org on 2020-07-16.</citation>
+              <resourceLogoUrl>http://ipt.fiocruz.br/ipt/logo.do?r=fiocruz_cavaisc</resourceLogoUrl>
+              <livingTimePeriod>1909 - atualmente</livingTimePeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

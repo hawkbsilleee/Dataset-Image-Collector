@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d762b508-7a70-441b-94ad-48fd77593275"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/lc5jng</alternateIdentifier>
+        <alternateIdentifier>https://biokic2.rc.asu.edu:443/portal/collections/misc/collprofiles.php?collid=12</alternateIdentifier>
+        <alternateIdentifier>https://scan-bugs.org:443/portal/collections/misc/collprofiles.php?collid=12</alternateIdentifier>
+        <alternateIdentifier>http://scan-bugs.org/portal/collections/misc/collprofiles.php?collid=12</alternateIdentifier>
+    <title>Denver Museum of Nature &amp; Science - Arachnology</title>
+    <creator>
+<organizationName>SCAN</organizationName><electronicMailAddress>Neil.Cobb@nau.edu</electronicMailAddress><onlineUrl>https://scan-bugs.org:443/portal/index.php</onlineUrl>    </creator>
+    <metadataProvider>
+<organizationName>SCAN</organizationName><electronicMailAddress>Neil.Cobb@nau.edu</electronicMailAddress><onlineUrl>https://scan-bugs.org:443/portal/index.php</onlineUrl>    </metadataProvider>
+    <associatedParty>
+<organizationName>Denver Museum of Nature &amp; Science - Arachnology</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>2001 Colorado Blvd</deliveryPoint><city>Denver</city><administrativeArea>Colorado</administrativeArea><postalCode>80205</postalCode><country>UNITED_STATES</country>    </address>
+<phone>303-370-6442</phone><electronicMailAddress>paula.cushing@dmns.org</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2020-07-01
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Worldwide in scope though with a focus on the American West, the Arachnology collection at the Denver Museum of Nature &amp;amp; Science comprises over 50,000 specimen lots and is growing every year. The holdings include primary types and paratypes. Holdings are particularly strong in Colorado species and in Solifugae, with 13 primary types and 65 paratypes. The Colorado Spider Survey, initiated at DMNS in 1999, has vastly expanded our knowledge of the Colorado spider fauna. The collection is housed in the Avenir Collections Center - an onsite state-of-the-art museum collections facility.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+<organizationName>Denver Museum of Nature &amp; Science - Arachnology</organizationName><phone>303-370-6442</phone><electronicMailAddress>paula.cushing@dmns.org</electronicMailAddress><onlineUrl>https://science.dmns.org/museum-scientists/paula-cushing/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-16T05:24:16Z</dateStamp>
+      <citation>Denver Museum of Nature &amp; Science (2020). Denver Museum of Nature &amp; Science - Arachnology. Occurrence dataset https://doi.org/10.15468/lc5jng accessed via GBIF.org on 2020-07-16.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

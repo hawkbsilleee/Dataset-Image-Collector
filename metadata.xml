@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.4gbcs6"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0022697-200613084148143</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.4gbcs6</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-07-16
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [ &quot;is Amblyomma americanum Linnaeus, 1758&quot; ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Invertebrate Zoology Division, Yale Peabody Museum
+1 records from Naturalis Biodiversity Center (NL) - Chelicerata and Myriapoda
+1 records from Denver Museum of Nature &amp; Science - Arachnology
+1 records from Canadian Museum of Nature Parasite Collection
+1 records from IZIKO South Africa Museum Collection (1800-2013)
+2 records from UAM Insect Collection (Arctos)
+2 records from Harold W. Manter Laboratory of Parasitology Collection
+2 records from CNAC/Coleccion Nacional de Acaros
+2 records from University of Alberta E. H. Strickland Entomological Museum (UASM)
+2 records from Texas Tech University - Invertebrate Zoology
+2 records from CAS Entomology (ENT)
+2 records from Recent Invertebrates Specimens
+3 records from Museum of Comparative Zoology, Harvard University
+4 records from Fiocruz/CAVAISC - Coleção de Artrópodes Vetores Ápteros de Importância em Saúde das Comunidades
+8 records from Computarización de la Colección de insectos y ácaros de importancia médica de la Facultad de Ciencias Biológicas, Universidad Autónoma de Nuevo León
+9 records from Essig Museum of Entomology
+10 records from Brigham Young University Arthropod Museum
+11 records from Geographically tagged INSDC sequences
+12 records from University of Delaware Insect Research Collection
+31 records from International Barcode of Life project (iBOL)
+41 records from Illinois Natural History Survey Insect Collection
+46 records from Ohio State Acarology Laboratory (OSAL), Ohio State University
+101 records from BugGuide - Identification, Images, &amp; Information For Insects, Spiders &amp; Their Kin For the United States &amp; Canada
+1015 records from iNaturalist Research-grade Observations
+</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-07-16T05:24:18Z</dateStamp>
+      <citation identifier="10.15468/dl.4gbcs6">GBIF Occurrence Download 10.15468/dl.4gbcs6</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://api.gbif.org/v1/occurrence/download/request/0022697-200613084148143.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

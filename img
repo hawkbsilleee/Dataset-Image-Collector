@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xml:lang="en"
+    lang="en"
+    xmlns:fb="http://www.facebook.com/2008/fbml"
+    xmlns:og="http://ogp.me/ns#">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# inaturalist: http://ogp.me/ns/fb/inaturalist#">
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+    <meta http-equiv="Content-Language" content="en">
+    <title>  Photo 80747453, (c) fred201, some rights reserved (CC BY-NC)
+ ·  iNaturalist </title>
+    <link rel="shortcut icon" type="image/x-icon" href="https://static.inaturalist.org/sites/1-favicon.png?1573071870" />
+    <link rel="stylesheet" media="screen" href="/assets/blueprint_bundle-84e5f7032f07459227e8dfdaefd2085aa52f78c56a0b4438c1542de31e50d7e2.css" />
+    <link rel="stylesheet" media="screen" href="/assets/font-awesome-2f50fecc97d9114f8339e0a5f68490c63e2b9c94374eeee6c7685856b2d4669d.css" />
+<link rel="stylesheet" media="screen" href="/assets/application_bundle-bf33b26190998216251bed21d4fd642f59ac6fa41d25456b18418e1fb2f40e58.css" />
+  <link rel="stylesheet" media="screen" href="https://static.inaturalist.org/sites/1-stylesheet.css?1573579729" />
+<!--[if lte IE 7]>
+  <link rel="stylesheet" media="screen" href="/assets/ie-86931db2aba1ba11895127b4ba428745f10c9493c093d6bb18c688b0e47afcaf.css" />
+<![endif]-->
+
+    <link rel="stylesheet" media="screen" href="/assets/blueprint-inat-334650c2af0436828771efb4d7407b35f6d17e02b732b504f82b22b5d41badf7.css" />
+    <link rel="stylesheet" media="screen" href="/assets/blueprint-bootstrap-bea30489879933c7ff519f849ad5dcda02c1ae77c2fff7a42274758f6d111fd4.css" />
+    <script src="/assets/jquery/jquery-1.9.1.min-f8ad053fa796cfea51b2a3b04c13e09862e1459faa8967d7e3599b7cfef68f28.js"></script>
+    <script src="/assets/jquery/jquery-ui-1.9.1.min-6bd9e79734919acc66fa4b01e619ace2f1d1d543a5295ea2ce7f601105ed25be.js"></script>
+    <script src="/assets/bootstrap.min-0600e6a3f5f6fc0fa52ac2829d50e33457db95221882af5b8a04a9c3875477f8.js"></script>
+    <script type="text/javascript">
+  //<![CDATA[
+    I18n = { }
+    I18n.defaultLocale = "en";
+    I18n.locale = "en";
+    I18n.fallbacks = true;
+  //]]>
+</script>
+
+    <script type="text/javascript">
+        var SITE = {
+          name: "iNaturalist",
+          short_name: "iNat",
+          logo_square: "https://static.inaturalist.org/sites/1-logo_square.png?1573071870"
+        };
+      var PREFERRED_PLACE;
+      var CONTROLLER_ACTION = "PhotosController::show";
+      var CONFIG = {
+        content_freeze_enabled: false
+      };
+    </script>
+    <script src="/assets/application_bundle-9740afcb0a194c2da236a571471c129e63a989f54fe5267c2cf569938321a439.js"></script>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="b7xs1Vu6ir9ytO9NAii1s7k2njDoU79XAscHkVpPdhAak6aaKmBRvwyZhS77HwtTTA4sn5W4LM43AtemB5SpWw==" />
+    <meta name="config:inaturalist_api_url" content="https://api.inaturalist.org/v1">
+    <meta property="og:type" content="website"/>
+      <meta property="og:site_name" content="iNaturalist"/>
+      <meta property="fb:app_id" content="26558815027" />
+    
+      <link rel="stylesheet" media="screen" href="/assets/taxa-17330695fdfa32fe36d0c5c58f6800581b2a4183e72fca8d24ffbb494b009d99.css" />
+  <style type="text/css" media="screen">
+    th, td { vertical-align: top;}
+    .photocell {min-width: 500px;}
+    .mini.observations .observation {border: 0 transparent;}
+    th {border-bottom: 1px solid #DDD;}
+    .button.rotateleft {padding-left:25px; background: url(/assets/silk/arrow_turn_left-7df5f9d76878d24aba59d67e6f8a2fd3671e614aafc8b030bc304fa71fcc5a5d.png) 5px 5px no-repeat;}
+    .button.rotateright {padding-left:25px; background: url(/assets/silk/arrow_turn_right-26d39d714b0bf67241b8fd46550b8bd4caedb1dc2e858a06a28974076a4cbd1f.png) 5px 5px no-repeat;}
+  </style>
+
+    
+      <meta property="og:image" content="https://static.inaturalist.org/sites/1-shareable_image.png?1573071871"/>
+  </head>
+<body class="browser">
+  <div id="bodywrapper">
+      <div class="bootstrap" id="header">
+<div class="navtabs" id="logonav">
+<a class="logolink innertab" href="/" title="iNaturalist">
+<img alt="iNaturalist" src="https://static.inaturalist.org/sites/1-logo.svg?1573071870" />
+</a>
+</div>
+<div class="search navtabs form-group" id="headersearch">
+<div class="searchwrapper">
+<input class="form-control" placeholder="Search" tabindex="-1" type="text" />
+</div>
+<button class="btn btn-default btn-inat btn-focus show-btn">
+<i class="fa fa-search"></i>
+</button>
+<button class="btn btn-link hide-btn">
+<i class="fa fa-times-circle"></i>
+</button>
+</div>
+<ul class="navtabs" id="mainnav">
+<li class="navtab">
+<a href="/observations">Explore</a>
+</li>
+<li class="navtab communitytab menutab">
+<div class="dropdown">
+<div aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" id="header-community-dropdown-toggle">
+<a href="/people">Community</a>
+<i class="fa fa-angle-down"></i>
+</div>
+<ul aria-labelledby="header-community-dropdown-toggle" class="dropdown-menu">
+<li><a href="/people">People</a></li>
+<li><a href="/projects">Projects</a></li>
+<li><a href="/journal">Journal Posts</a></li>
+<li><a href="https://forum.inaturalist.org">Forum</a></li>
+</ul>
+</div>
+</li>
+<li class="navtab moretab menutab">
+<div class="dropdown">
+<div aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" id="header-more-dropdown-toggle">
+More
+<i class="fa fa-angle-down"></i>
+</div>
+<ul aria-labelledby="header-more-dropdown-toggle" class="dropdown-menu">
+<li><a href="/taxa">Taxa Info</a></li>
+<li><a href="/guides">Guides</a></li>
+<li><a href="/places">Places</a></li>
+<li><a href="/stats">Site Stats</a></li>
+<li class="divider" role="separator"></li>
+<li><a href="/help">Help</a></li>
+<li><a href="https://www.inaturalist.org/pages/video+tutorials">Video Tutorials</a></li>
+<li><a href="https://www.inaturalist.org/pages/managing-projects">Managing Projects</a></li>
+<li><a href="https://www.inaturalist.org/pages/teacher&#39;s+guide">Teacher&#39;s Guide</a></li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class="navtabs" id="usernav">
+<li class="navtab signedout">
+<a class="signin_link" href="/login">Log In</a>
+or
+<a class="signup_link" href="https://www.inaturalist.org/signup">Sign Up</a>
+</li>
+</ul>
+</div>
+
+    
+    
+
+
+    <div id="wrapper" class="container clear">
+      
+<h2>Photo 80747453, (c) fred201, some rights reserved (CC BY-NC)</h2>
+
+
+<table>
+  <tr>
+    <td class="photocell">
+        <img class="medium photo" src="https://inaturalist-open-data.s3.amazonaws.com/photos/80747453/medium.jpg" />
+    </td>
+    
+    <td style="width: 100%">
+      <table width="100%">
+        <tr>
+          <th>Attribution</th>
+          <td width="100%">
+            <span class="rights verticalmiddle">&copy; fred201<br/><span><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img src="/assets/CC-BY-NC_small-10fbaadff7dddf7e3b7eae257b2fc07cecf8de794f35fc1f8c1202a6fccab58d.png" /></a> <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">some rights reserved</a></span></span>
+          </td>
+        </tr>
+          <tr>
+            <th class="nobr">Uploaded by</th>
+            <td>
+              <a href="https://www.inaturalist.org/people/604668"><img alt="fred201" title="fred201" class="user_image  usericon" src="https://www.inaturalist.org/attachment_defaults/users/icons/defaults/mini.png" /></a>
+              <a class="nickname" missing="deleted user" title="fred201" href="https://www.inaturalist.org/people/fred201">fred201</a>
+            </td>
+          </tr>
+          <tr>
+            <th>Source</th>
+            <td>
+                iNaturalist
+            </td>
+          </tr>
+          <tr>
+            <th>Associated observations</th>
+            <td class="mini observations">
+              <div id="observation-50839517" class="observation research_grade" 
+    data-taxon-id=83744
+    data-iconic-taxon-id=47119
+    data-latitude=37.3090690718
+    data-longitude=-77.7556179342
+    data-coordinates-obscured="true"
+    data-iconic-taxon-name=Arachnida>
+  
+  <div class="icon attribute">
+    <img data-square-url="https://www.inaturalist.org/assets/iconic_taxa/arachnida-15px.png" data-small-url="https://www.inaturalist.org/assets/iconic_taxa/arachnida-32px.png" class="iconic" src="https://www.inaturalist.org/assets/iconic_taxa/arachnida-15px.png" />
+  </div>
+  <div class="photos attribute">
+    <h4 class="label">Photos / Sounds</h4>
+    <div class="photolist">
+            <a class="flickr photo" href="/observations/50839517"><img data-square-url="https://inaturalist-open-data.s3.amazonaws.com/photos/80747453/square.jpg" data-small-url="https://inaturalist-open-data.s3.amazonaws.com/photos/80747453/small.jpg" data-medium-url="https://inaturalist-open-data.s3.amazonaws.com/photos/80747453/medium.jpg" src="https://inaturalist-open-data.s3.amazonaws.com/photos/80747453/square.jpg" /></a>
+    </div>
+  </div>
+  <div class="readable species_guess attribute">
+    <h4 class="label">What</h4>
+        <span class="taxon taxon-83744  species Arachnida">
+    <span class="comname ">
+        <a href="/observations/50839517">Lone Star Tick</a>
+    </span>
+      <span class="othernames">
+          (<span class="sciname">Amblyomma americanum</span>)
+      </span>
+  </span>
+
+    <!-- <span class="button detailsctrl">Show Details</span> -->
+  </div>
+  <div class="user attribute">
+    <h4 class="label">Observer</h4>
+    <a rel="nofollow" href="/observations?user_id=fred201">fred201</a>
+  </div>
+  <div class="observed_on attribute">
+    <h4 class="label">Date</h4>
+    <span class="date" title="">
+        <a rel="nofollow" href="/observations?on=2020-6&amp;user_id=fred201">June</a>
+        <a rel="nofollow" href="/observations?on=2020&amp;user_id=fred201">2020</a>
+    </span>
+  </div>
+  <div class="place attribute">
+    <h4 class="label">Place</h4>
+        <i
+          class="geoprivacy-icon icon-icn-location-obscured"
+          title="Location is obscured"
+          alt="Location is obscured"
+        ></i>
+    <a rel="nofollow" href="/observations?lat=37.3090690718&amp;lng=-77.7556179342">Virginia, US</a> (<a target="_blank" rel="nofollow" href="http://maps.google.com/?q=37.3090690718,-77.7556179342&amp;z=">Google</a>, <a target="_blank" rel="nofollow" href="http://www.openstreetmap.org/?mlat=37.3090690718&amp;mlon=-77.7556179342">OSM</a>)
+  </div>
+    <div class="created_at attribute" style="display:none">
+      <h4 class="label">Date Added</h4>
+      <span class="date">
+        June 24, 2020
+      </span>
+      <span class="time">
+        08:59 PM EDT
+      </span>
+    </div>
+  <div id="obs-50839517-details" class="details attribute">
+  </div>
+  <div id="obs-50839517-tags" class="tags attribute">
+  </div>
+  <div class="actions attribute">
+      <ul class="counts">
+          <li class="identifications_count">
+            <a href="/observations/50839517">
+              <span class="count">1</span>
+              ID
+              
+            </a>
+          </li>
+      </ul>
+      <ul class="bubbles">
+          <li class="last">
+            <a class="research_grade_notice" data-tip="&quot;Research grade&quot; observations have a date, photo, coordinates, and a community-supported ID.  Click through to see the data quality assessment." data-tip-show-delay="1000" href="https://www.inaturalist.org/observations/50839517#data_quality_assessment">R<span class='full'>esearch </span>G<span class='full'>rade</span></a>
+          </li>
+      </ul>
+    <ul class="editview">
+      <li class="last viewlink">
+        <a class="readmore" href="/observations/50839517">View</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+            </td>
+          </tr>
+
+        
+        <tr>
+          <th>Sizes</th>
+          <td>
+            <ul>
+                <li>
+                  <a rel="nofollow" href="https://www.inaturalist.org/photos/80747453?size=small">small</a>
+                </li>
+                <li>
+                  <a rel="nofollow" href="https://www.inaturalist.org/photos/80747453?size=medium">medium</a>
+                </li>
+                <li>
+                  <a rel="nofollow" href="https://www.inaturalist.org/photos/80747453?size=large">large</a>
+                </li>
+                <li>
+                  <a rel="nofollow" href="https://www.inaturalist.org/photos/80747453?size=original">original</a>
+                </li>
+            </ul>
+            
+          </td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
+    </div><!-- end wrapper -->
+    
+    <div id="modal_image_box" class="modalbox" style="display:none"></div>
+    <div id="comment_preview" class="modalbox" style="display: none"></div>
+  </div>
+  
+  <div class="bootstrap" id="footer">
+<div class="container">
+<div class="row">
+<div class="col-xs-3 links-col">
+<p>
+<a href="/pages/about">About</a>
+</p>
+<p>
+<a href="/pages/help">Help</a>
+</p>
+<p>
+<a href="https://forum.inaturalist.org">Forum</a>
+</p>
+<p>
+<a href="/pages/press">Press</a>
+</p>
+<p>
+<a href="https://www.inaturalist.org/blog">Our Blog</a>
+</p>
+<p>
+<a href="/pages/community+guidelines">Community Guidelines</a>
+</p>
+<p>
+<a href="/pages/terms">Terms of Use</a>
+</p>
+<p>
+<a href="/pages/privacy">Privacy</a>
+</p>
+</div>
+<div class="col-xs-3 buttons-col short-text">
+<div class="one-line">
+<a class="btn btn-inat btn-primary btn-block btn-donate" title="DONATE" rel="nofollow" href="/donate?utm_campaign=default&amp;utm_content=footer-button&amp;utm_medium=web">DONATE</a>
+<a class="btn btn-inat btn-primary btn-block btn-donate" title="STORE" href="https://store.inaturalist.org">STORE</a>
+</div>
+<div class="social-media">
+<a class="social-media-link facebook" title="Facebook" href="https://www.facebook.com/inaturalist/"><img src="/assets/facebook-f-logo-white-326a0af3f327083d4632b4c26aaeaecd9ec859070097069179d90a689d189c05.svg" />
+</a><a class="social-media-link twitter" title="Twitter" href="https://twitter.com/inaturalist">Twitter</a>
+<a class="social-media-link instagram" title="Instagram" href="https://instagram.com/inaturalistorg">Instagram</a>
+</div>
+</div>
+<div class="col-xs-2">
+  <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android">
+    <img alt="Android app on Google Play" src="https://static.inaturalist.org/wiki_page_attachments/412-original.png"
+      style="display:block; max-height: 42px; max-width: 100%; margin: 0 auto 18px;"/>
+  </a>
+  <a href="https://itunes.apple.com/us/app/inaturalist/id421397028?mt=8">
+    <img alt="iPhone app in the Apple App Store" src="https://static.inaturalist.org/wiki_page_attachments/414-original.png"
+      style="display:block; max-height: 42px; max-width: 100%; margin: 0 auto;"/>
+  </a>
+</div>
+<div class="col-xs-2">
+  <a href="https://calacademy.org"><img src="https://static.inaturalist.org/wiki_page_attachments/1378-original.svg" style="width:100%; position: relative;
+    top: 50%;
+    transform: translateY(25%);"></a>
+</div>
+<div class="col-xs-2">
+  <a href="https://www.nationalgeographic.org"><img src="https://static.inaturalist.org/wiki_page_attachments/922-original.svg" style="width:100%; position: relative;
+    top: 50%;
+    transform: translateY(50%);"></a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="bootstrap" id="inatnotice">
+<div class="container">
+<div class="row">
+<div class="col-xs-12">
+<div class="links inlineblock">
+Member of the <a href="/sites/network">iNaturalist Network</a>
+
+&nbsp;
+|
+&nbsp;
+Powered by <a href="https://github.com/inaturalist/inaturalist" target="_new" >iNaturalist open source software</a>
+|
+&nbsp;
+Documentation for <a href="/pages/developers">developers</a>
+</div>
+<div class="btn-group dropup pull-right" id="footer-locale-chooser">
+<button aria-haspopup="aria-haspopup" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+<i class="icon-ios-world"></i>
+English
+<span class="caret"></span>
+<span class="sr-only">Toggle Dropdown</span>
+</button>
+<ul class="dropdown-menu">
+<li>
+<a title="Arabic" rel="nofollow" href="/set_locale?locale=ar">العربية</a>
+</li>
+<li>
+<a title="Belarusian" rel="nofollow" href="/set_locale?locale=be">Беларуская</a>
+</li>
+<li>
+<a title="Bulgarian" rel="nofollow" href="/set_locale?locale=bg">български</a>
+</li>
+<li>
+<a title="Breton" rel="nofollow" href="/set_locale?locale=br">Breton</a>
+</li>
+<li>
+<a title="Catalan" rel="nofollow" href="/set_locale?locale=ca">Català</a>
+</li>
+<li>
+<a title="Czech" rel="nofollow" href="/set_locale?locale=cs">česky</a>
+</li>
+<li>
+<a title="Danish" rel="nofollow" href="/set_locale?locale=da">Dansk</a>
+</li>
+<li>
+<a title="German" rel="nofollow" href="/set_locale?locale=de">Deutsch</a>
+</li>
+<li>
+<a title="Greek" rel="nofollow" href="/set_locale?locale=el">Ελληνικά</a>
+</li>
+<li>
+<a title="English" rel="nofollow" href="/set_locale?locale=en">English</a>
+</li>
+<li>
+<a title="Esperanto" rel="nofollow" href="/set_locale?locale=eo">Esperanto</a>
+</li>
+<li>
+<a title="Spanish" rel="nofollow" href="/set_locale?locale=es">Español</a>
+</li>
+<li>
+<a title="Spanish (Argentina)" rel="nofollow" href="/set_locale?locale=es-AR">Español (Argentina)</a>
+</li>
+<li>
+<a title="Spanish (Colombia)" rel="nofollow" href="/set_locale?locale=es-CO">Español (Colombia)</a>
+</li>
+<li>
+<a title="Spanish (Mexico)" rel="nofollow" href="/set_locale?locale=es-MX">Español (México)</a>
+</li>
+<li>
+<a title="Estonian" rel="nofollow" href="/set_locale?locale=et">Eesti</a>
+</li>
+<li>
+<a title="Basque" rel="nofollow" href="/set_locale?locale=eu">Euskara</a>
+</li>
+<li>
+<a title="Finnish" rel="nofollow" href="/set_locale?locale=fi">suomi</a>
+</li>
+<li>
+<a title="French" rel="nofollow" href="/set_locale?locale=fr">français</a>
+</li>
+<li>
+<a title="French (Canada)" rel="nofollow" href="/set_locale?locale=fr-CA">Français (Canada)</a>
+</li>
+<li>
+<a title="Galician" rel="nofollow" href="/set_locale?locale=gl">Galego</a>
+</li>
+<li>
+<a title="Hebrew" rel="nofollow" href="/set_locale?locale=he">עברית</a>
+</li>
+<li>
+<a title="Hungarian" rel="nofollow" href="/set_locale?locale=hu">magyar</a>
+</li>
+<li>
+<a title="Indonesian" rel="nofollow" href="/set_locale?locale=id">Indonesia</a>
+</li>
+<li>
+<a title="Italian" rel="nofollow" href="/set_locale?locale=it">Italiano</a>
+</li>
+<li>
+<a title="Japanese" rel="nofollow" href="/set_locale?locale=ja">日本語</a>
+</li>
+<li>
+<a title="Kannada" rel="nofollow" href="/set_locale?locale=kn">ಕನ್ನಡ</a>
+</li>
+<li>
+<a title="Korean" rel="nofollow" href="/set_locale?locale=ko">한국어</a>
+</li>
+<li>
+<a title="Luxembourgish" rel="nofollow" href="/set_locale?locale=lb">Lëtzebuergesch</a>
+</li>
+<li>
+<a title="Lithuanian" rel="nofollow" href="/set_locale?locale=lt">Lietuvių</a>
+</li>
+<li>
+<a title="Latvian" rel="nofollow" href="/set_locale?locale=lv">Latviešu</a>
+</li>
+<li>
+<a title="Macedonian" rel="nofollow" href="/set_locale?locale=mk">македонски</a>
+</li>
+<li>
+<a title="Marathi" rel="nofollow" href="/set_locale?locale=mr">मराठी</a>
+</li>
+<li>
+<a title="Norwegian Bokmål" rel="nofollow" href="/set_locale?locale=nb">Norsk Bokmål</a>
+</li>
+<li>
+<a title="Dutch" rel="nofollow" href="/set_locale?locale=nl">Nederlands</a>
+</li>
+<li>
+<a title="Occitan" rel="nofollow" href="/set_locale?locale=oc">Occitan</a>
+</li>
+<li>
+<a title="Polish" rel="nofollow" href="/set_locale?locale=pl">Polski</a>
+</li>
+<li>
+<a title="Portuguese" rel="nofollow" href="/set_locale?locale=pt">Portuguese</a>
+</li>
+<li>
+<a title="Portuguese (Brazil)" rel="nofollow" href="/set_locale?locale=pt-BR">Português (Brasil)</a>
+</li>
+<li>
+<a title="Russian" rel="nofollow" href="/set_locale?locale=ru">Русский</a>
+</li>
+<li>
+<a title="Santali" rel="nofollow" href="/set_locale?locale=sat">Santali</a>
+</li>
+<li>
+<a title="Slovak" rel="nofollow" href="/set_locale?locale=sk">Slovenský</a>
+</li>
+<li>
+<a title="Slovenian" rel="nofollow" href="/set_locale?locale=sl">Slovenian</a>
+</li>
+<li>
+<a title="Albanian" rel="nofollow" href="/set_locale?locale=sq">Shqip</a>
+</li>
+<li>
+<a title="Swedish" rel="nofollow" href="/set_locale?locale=sv">Svenska</a>
+</li>
+<li>
+<a title="Thai" rel="nofollow" href="/set_locale?locale=th">ภาษาไทย</a>
+</li>
+<li>
+<a title="Turkish" rel="nofollow" href="/set_locale?locale=tr">Türkçe</a>
+</li>
+<li>
+<a title="Ukrainian" rel="nofollow" href="/set_locale?locale=uk">Українська</a>
+</li>
+<li>
+<a title="Chinese (simplified)" rel="nofollow" href="/set_locale?locale=zh-CN">简体中文</a>
+</li>
+<li>
+<a title="Chinese (traditional)" rel="nofollow" href="/set_locale?locale=zh-TW">繁體中文</a>
+</li>
+<li class="divider" role="separator"></li>
+<li><a href="/pages/translate">Help Translate!</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+  <div id="inat-universal-autocomplete"></div>
+  
+  <script type="text/javascript">
+    if (typeof(ga) != 'undefined') {
+      ga('set', 'dimension1', 'false');
+    }
+  </script>
+</body>
+</html>
